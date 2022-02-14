@@ -1,0 +1,1705 @@
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        margin: 0;
+        font-family: 'Fira Code', monospace;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      .exam-questions {
+        display: flex;
+        flex-flow: column;
+        width: 100%;
+        list-style: none;
+        row-gap: 2.5em;
+        background: white;
+        margin: 0;
+        padding: 1rem;
+      }
+
+      .exam-questions__question.question {
+        display: grid;
+        grid-template: 1fr / min-content 3fr 2fr 1fr;
+        width: 100%;
+        box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.16);
+      }
+
+      @media (max-width: 600px) {
+        .exam-questions__question.question {
+          grid-template: auto auto auto auto / 100%;
+        }
+      }
+
+      .question > :nth-child(even) {
+        background: #ececec;
+      }
+
+      .question > * {
+        border: 1px solid rgba(0, 0, 0, 0.6);
+      }
+
+      .question .question__counter {
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        padding: 0 1rem;
+      }
+
+      .question .question__image,
+      .question .question__searchable,
+      .question .question__notes {
+        width: 100%;
+      }
+
+      .question .question__image {
+        object-fit: contain;
+        object-position: left;
+      }
+
+      .question .question__searchable,
+      .question .question__notes {
+        padding: 1.75em 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <ul class="exam-questions">
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00001.png"
+        />
+        <div class="question__searchable">
+          Niech i ozaczają indeksowane rodziny podzbiorów uniwersum indeksowane
+          elementami ze zbioru indeksów Twierdzenie można zapisać jako:
+        </div>
+        <div class="question__notes">Moze cos jeszcze</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00002.png"
+        />
+        <div class="question__searchable">
+          Dla zbioru czesciowo uporzadkowanego podaj liczbe majorant rodziny
+          zbiorow (0 jezeli nie istnieje)
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00003.png"
+        />
+        <div class="question__searchable">
+          Niech taka, ze gdzie oznacza reszte z dzielenia liczby a przez b.
+          Zaznacz zdanie prawdziwe o
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00004.png"
+        />
+        <div class="question__searchable">
+          Niech A i B będą dowolnymi zbiorami. Zaznacz prawdziwe zdania.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00005.png"
+        />
+        <div class="question__searchable">
+          Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00006.png"
+        />
+        <div class="question__searchable">
+          Na dziedzinie X = [-3,3] definiujemy funkcje o wartościach f(x) = x^2
+          oraz g(x) = 1. Która z poniższych relacji również jest funkcją na tej
+          samej dziedzinie?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00007.png"
+        />
+        <div class="question__searchable">
+          Rozważmy funkcję f: {\mathbb R}\ni x \rightarrow x^2-1 \in {\mathbb R}
+          . Obraz zbioru A przez funkcję f oznaczamy jako f(A). Wskaż wszystkie
+          prawdziwe stwierdzenia:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00008.png"
+        />
+        <div class="question__searchable">
+          Zaznacz operacje, które są przemienne.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00009.png"
+        />
+        <div class="question__searchable">
+          Niech p oznacza zdanie logiczne, a 1 zdanie prawdziwe. Wskaż wszystkie
+          tautologie
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00010.png"
+        />
+        <div class="question__searchable">
+          Niech P(X) oznacza zbiór potęgowy zbioru X, a o oznacza różnicę
+          symetryczną zbiorów. P(P(o)) o (P(o) jest równe
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00011.png"
+        />
+        <div class="question__searchable">
+          Czy istnieją relacje, które są jednocześnie symetryczne i
+          antysymetryczne?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00012.png"
+        />
+        <div class="question__searchable">
+          Zaznacz zdania równoważne zdaniu a <=> B.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00013.png"
+        />
+        <div class="question__searchable">
+          Niech f : {1, 2, ...., 7} -> {0, 1, 2} taką że, f(x) = mod(x^2, 3)
+          oznacza resztę z dzielenia liczby a przez b
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00014.png"
+        />
+        <div class="question__searchable">
+          Uszereguj podane zbiory tak, aby dla dowolnego wyboru zbiorów A, B, C
+          każdy zbiór był podzbiorem zbioru nad nim.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00015.png"
+        />
+        <div class="question__searchable">
+          Niech R będzie relacją określoną na niepustym zbiorze X ( R c X x X).
+          Relacja oznacza przekątną zbioru X. Dopasuj zachodzące równoważności
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00016.png"
+        />
+        <div class="question__searchable">
+          Niech f : Z x Z -> Z będzie dane wzorem f(n,k) = n2k, Które z
+          poniższych zdań są prawdziwe?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00017.png"
+        />
+        <div class="question__searchable">
+          Czy relacja może być jednocześnie symetrzyczna, antysymetryczna i
+          spójna?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00018.png"
+        />
+        <div class="question__searchable">
+          Rozważmy formę zdaniową określoną dla x i y będacych liczbami
+          całkowitymi. Z poniższej listy wybierz wszystkie zdania prawdziwe.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00019.png"
+        />
+        <div class="question__searchable">
+          Zaznacz relacje R, które są relacjami częsciowego porządku.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00020.png"
+        />
+        <div class="question__searchable">
+          Ile relacji zwrotnych można utworzyć na zbiorze trójelementowym?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00021.png"
+        />
+        <div class="question__searchable">
+          Rozważmy dowolną funkcję postaci f ze zbioru X w X, która jest
+          injekcją, ale nie surjekcją. Czy to prawda jest, że:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00022.png"
+        />
+        <div class="question__searchable">
+          Niech p i q oznaczają zdania logiczne. Wskaż wszystkie tautologie.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00023.png"
+        />
+        <div class="question__searchable">
+          Funkcja f: R -> R jest suriekcją jeśli:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00024.png"
+        />
+        <div class="question__searchable">
+          Na zbiorze liczb naturalnych dodatnich określamy relację częsciowego
+          porządku m <= n = m dzieli n. Supremum zbioru {1, 2, 3} względem
+          zadanej relacji to:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00025.png"
+        />
+        <div class="question__searchable">
+          Niech będa formami zdaniowymi. Zaznacz wszystkie odpowiedzi prawdziwe
+          do wyrażenia
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00026.png"
+        />
+        <div class="question__searchable">
+          Definiujemy funkcję f : Wskaż wszystkie prawdziwe stwierdzenia.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00027.png"
+        />
+        <div class="question__searchable">
+          Z poniższych zdań wskaż zdania prawdziwe.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00028.png"
+        />
+        <div class="question__searchable">
+          Zaznacz własności relacji R określonej na zbiorze Z Symbol | oznacza
+          podzielność
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00029.png"
+        />
+        <div class="question__searchable">
+          Na zbiorze definiujemy relacje oraz . Czy prawdą jest, że:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00030.png"
+        />
+        <div class="question__searchable">
+          Niech i będą formami zdaniowymi z argumentem przyjmującym wartości
+          należące do niepustego uniwersum. Wskaż wszystkie tautologie.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00031.png"
+        />
+        <div class="question__searchable">Poniższa formuła jest tautologią</div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00032.png"
+        />
+        <div class="question__searchable">
+          Poniższy dowód tautologii (*) jest NIEPOPRAWNY. Z listy wybierz
+          wszystkie niepoprawne wnioski. Przeprowadzamy dowód niewprost.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00033.png"
+        />
+        <div class="question__searchable">
+          Dana jest funkcja zdefiniowana następująco: jeśli oraz jeśli . Które
+          zdania są prawdziwe?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00034.png"
+        />
+        <div class="question__searchable">
+          Czy istnieją relacje, które są jednocześnie symetryczne i
+          antysymetryczne?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00035.png"
+        />
+        <div class="question__searchable">
+          Niech φ(x, y) będzie formą zdaniową dwóch zmiennych x i y, których
+          zakresem zmienności jest zbiór liczb naturalnych ℕ, taką, że φ(x, y) ≡
+          y ≤ x Zaznacz prawdziwą odpowiedź dla wyrażenia ∃y∊ℕ: φ(x, y)
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00036.png"
+        />
+        <div class="question__searchable">
+          Które z propozycji są poprawnymi kontrprzykładami na to, że wynika z ?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00037.png"
+        />
+        <div class="question__searchable">Która z funkcji jest bijekcją?</div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00038.png"
+        />
+        <div class="question__searchable">
+          Na zbiorze X = {1,2,3,4} definiujemy relację częściowego porządku. Dla
+          których z poniższych zbiorów , pozostaje relacją częściowego porządku?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00039.png"
+        />
+        <div class="question__searchable">Prawdą jest, że</div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00040.png"
+        />
+        <div class="question__searchable">W dowodzie tautologii (*)</div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00041.png"
+        />
+        <div class="question__searchable">
+          Niech T będzie niepustym zbiorem indeksów. Dla zbioru A zachodzi
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00042.png"
+        />
+        <div class="question__searchable">
+          Relacja R c {1, 2}2 taka, że jest (zaznacz wszystkie prawidłowe
+          odpowiedzi)
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00043.png"
+        />
+        <div class="question__searchable">
+          R jest relacją częsciowego porządku na XxX. Wtedy zawsze zachodzi:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00044.png"
+        />
+        <div class="question__searchable">
+          Dla dowolnych zbiorów prawdziwa jest równość:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00045.png"
+        />
+        <div class="question__searchable">
+          Niech bedzie forma zdaniowa zmiennej ktorej zakresem zmiennosci jest
+          niepusty zbior. Zaznacz odpowiedz prawdziwa dla wyrazenia
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00046.png"
+        />
+        <div class="question__searchable">
+          Niech A i B będa liczbami rzeczywistymi traktowanymi jako klasy dolne
+          przekrojów Dedekinda zbioru Q. Wówczas
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00047.png"
+        />
+        <div class="question__searchable">
+          Niech funkcja f : X -> Y będzie injekcją, a gdy g: Y -> Z będzie
+          surjekcją. Wskaż wszystkie prawdziwe stwierdzenia:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00048.png"
+        />
+        <div class="question__searchable">
+          Ile istnieje surjekcji ze zbioru Z na zbiór R?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00049.png"
+        />
+        <div class="question__searchable">
+          Niech P(X) oznacza zbiór potęgowy zbioru X, a O oznacza zbiór pusty.
+          Wskaż prawdziwe stwierdzenia:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00050.png"
+        />
+        <div class="question__searchable">
+          Niech będa formami zdaniowymi. Zaznacz wszystkie odpowiedzi prawdziwe
+          do wyrażenia
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00051.png"
+        />
+        <div class="question__searchable">
+          niech r e R będzie liczbą rzeczywistą wymierną utożsamioną z q e Q i
+          traktoraną jako klasa dolna przekroju Dedekinda zbioru Q. Cz q-1 e r?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00052.png"
+        />
+        <div class="question__searchable">
+          Niech |X| = 2 i |Y| = 3 Podaj liczbę funkcji f: X -> Y. (0 jeżeli nie
+          istnieje)
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00053.png"
+        />
+        <div class="question__searchable">
+          Dopasuj wyrażenia z prawej kolumny do wyrażen z kolumny lewej, w taki
+          sposób aby utworzone zostały zawsze prawdziwe inkluzje lub równości.
+        </div>
+        <div class="question__notes">0,75</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00054.png"
+        />
+        <div class="question__searchable">
+          Wskaż które z poniższych zbiorów stanowią zbiór potęgowy jakiegoś
+          zbioru:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00055.png"
+        />
+        <div class="question__searchable">
+          Na zbiorze X x X mamy daną pewną relację równoważnosci R. Jeżeli
+          zdeifniujemy teraz relację S na zbiorze (X/R) x (P(X) taką, że
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00056.png"
+        />
+        <div class="question__searchable">
+          Czy zlozenie dwoch relacji rownowaznosci jest relacja rownowaznosci?
+          Wybierz jedna odpowiedz
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00057.png"
+        />
+        <div class="question__searchable">
+          Niech i beda dowolnymi formami zdaniowymi zmiennej w zbiorze. Zaznacz
+          zdania zawsze prawdziwe.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00058.png"
+        />
+        <div class="question__searchable">
+          Niech taką, że gdzie oznacza resztę z dzielenia liczby przez . Zaznacz
+          zdanie prawdziwe o f. Zaznacz zdanie prawdziwe o
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00059.png"
+        />
+        <div class="question__searchable">
+          Dane są dwie funkcje f : R -> R i q : R -> R. Dla jakich funkcji
+          złożenie g o f jest surjekcją?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00060.png"
+        />
+        <div class="question__searchable">
+          Niech będzie formą zdaniową z argumentem przyjmującym wartości
+          należące do niepustego uniwersum, a zdaniem logicznym.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00061.png"
+        />
+        <div class="question__searchable">
+          Operator alternatywy wykluczającej (XOR) jest zdefiniowany jako .
+          Wskaż wszystkie tautologie
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00062.png"
+        />
+        <div class="question__searchable">
+          Niech będa formami zdaniowymi z argumentem x przyjmującym wartości
+          należace do niepustego uniwersum. Wskaż wszystkie tautologie.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00063.png"
+        />
+        <div class="question__searchable">
+          Zaznacz zdania równoważne zdaniu.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00064.png"
+        />
+        <div class="question__searchable">
+          Niech taką, że gdzie to reszta z dzielenia przez . Podaj maksymalną
+          wartość (liczbę elementów zbioru ), dla której może być iniekcją. (0
+          jeżeli nie istnieje, -1 jeżeli nieskończenie wiele).
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00065.png"
+        />
+        <div class="question__searchable">
+          Zaznacz wszystkie poprawne stwierdzenia
+        </div>
+        <div class="question__notes">
+          0/1 pkt. - 2 dobrze, "a" też powinno być
+        </div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00066.png"
+        />
+        <div class="question__searchable">
+          Wybierz własności, które spełnione śa przez wszystkie surjekcje f : X
+          -> Y, gdzie X i Y są niepustymi i rozłącznymi zbiorami
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00067.png"
+        />
+        <div class="question__searchable">
+          Operator jednoczesnego zaprzeczenia (NOR) jest zdefiniowany jako.
+          Wskaz wszystkie tautologie.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00068.png"
+        />
+        <div class="question__searchable">
+          Wskaż podzbioru zbioru A' - B' - C', dla dowolnego wyboru zbiorów A,
+          B, C.
+        </div>
+        <div class="question__notes">0/1 pkt. - 2 dobrze</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00069.png"
+        />
+        <div class="question__searchable">
+          Które relacje R C R x R są funkcjami?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00070.png"
+        />
+        <div class="question__searchable">Wskaż relacje równoważności</div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00071.png"
+        />
+        <div class="question__searchable">
+          jest formą zdaniową typu a formą zdaniową typu U. Jakiego typu jest
+          następująca forma zdaniowa
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00072.png"
+        />
+        <div class="question__searchable">
+          Funkcja f zdefiniowana jako f(x) = sin(x) jest bijekcją, jeśli
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00073.png"
+        />
+        <div class="question__searchable">
+          Majorantą przedziału (0,1) w R ze zwykłym porządkiem <= jest:
+        </div>
+        <div class="question__notes">Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00074.png"
+        />
+        <div class="question__searchable">
+          Rozważmy odwzorowane f : Q -> Q zadane poprzez x. Z poniższych zdań
+          wskaż prawdziwe stwierdzenia.
+        </div>
+        <div class="question__notes">Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00075.png"
+        />
+        <div class="question__searchable">
+          Rozważmy dowolną bijekcję ze zbioru na . Czy prawdą jest, że:
+        </div>
+        <div class="question__notes">Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00076.png"
+        />
+        <div class="question__searchable">
+          Rozważmy dwie liczby całkowite, zdefiniowane standardowo jako klasy
+          abstrakcji na N x N. Zaznacz prawdziwe stwierzednia o nich i ich
+          różnicy.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00077.png"
+        />
+        <div class="question__searchable">
+          Oznaczmy przez p zdanie ,,Ala ma kota", przez q zdanie ,,Ten hamburger
+          jest nieświeży", a przez r zdanie ,,Deszcz nie pada lub ten hamburger
+          jest świeży". Zdanie ,,Jeśli ten hamburger jest nieświeży i pada
+          deszcz, to Ala nie ma kota" jest równoważne zdaniu:
+        </div>
+        <div class="question__notes">0/1 pkt. - do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00078.png"
+        />
+        <div class="question__searchable">
+          Spośród poniższych zdań wybierz zdania prawdziwe.
+        </div>
+        <div class="question__notes">Brakuje (jescze a.)</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00079.png"
+        />
+        <div class="question__searchable">
+          Dana jest rodzina przedziałów otwartych indeksowana liczbami
+          naturalnymi (0,1,2,...) taka, że. Wskaż zdania prawdziwe:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00080.png"
+        />
+        <div class="question__searchable">
+          Rozważmy funkcję. Obraz zbioru przez funkcję oznaczamy jako, a
+          przeciwobraz zbioru oznaczamy jako. Wskaż wszystkie prawdziwe
+          stwierdzenia: a
+        </div>
+        <div class="question__notes">0 pkt. - Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00081.png"
+        />
+        <div class="question__searchable">
+          Niech R będzie relacją równoważności na zbiorze X, |X| > 2. Wtedy
+          zachodzi:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00082.png"
+        />
+        <div class="question__searchable">
+          Ile różnych relacji częściowego porządku można wprowadzić na zbiorze
+          dwuelementowym X = \{a,b\}?
+        </div>
+        <div class="question__notes">Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00083.png"
+        />
+        <div class="question__searchable">
+          Co możemy powiedzieć o liczbie relacji porządku określonych na zbiorze
+          X o co najmniej rzech elemenach. Zaznacz zdanie prawdziwe
+        </div>
+        <div class="question__notes">Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00084.png"
+        />
+        <div class="question__searchable">
+          Jeżeli oraz są zstępującymi rodzinami zbiorów to zachodzi równość.
+          Uwaga: rozdzinę zbiorów nazywamy zstępującą, gdy dla wszystkich.
+          Wybierz jedną odpowiedź:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00085.png"
+        />
+        <div class="question__searchable">
+          Niech będzie formą zdaniową z argumentem przyjmującym wartości
+          należące do niepustego uniwersum, a zdaniem logicznym. Wskaż wszystkie
+          tautologie.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00086.png"
+        />
+        <div class="question__searchable">
+          Jeśli zbiory A, B, C są takie, że A = B ∪ C, to zawsze zachodzi
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00087.png"
+        />
+        <div class="question__searchable">
+          Na zbiorze definiujemy relację równoważności. Na jakie sposoby można
+          zapisać dowolną jej klasę abstrakcji?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00088.png"
+        />
+        <div class="question__searchable">
+          Pewna relacja R na zbiorze X x X jest zwrotna i posiada ponadto
+          właściwość. Czy da się pokazać, że jest ona również symetryczna?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00089.png"
+        />
+        <div class="question__searchable">
+          Z poniższych zdań wybierz zdania prawdziwe.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00090.png"
+        />
+        <div class="question__searchable">
+          Czy relacja spójna jest relacją zwrotną? Wybierz jedną odpowiedź:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00091.png"
+        />
+        <div class="question__searchable">
+          Niech będą formami zdaniowymi określonymi dla x e X a p, q to zdania.
+          Wskaż zdania (które nie są formami zdaniowymi).
+        </div>
+        <div class="question__notes">B poprawne</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00092.png"
+        />
+        <div class="question__searchable">
+          Zaznacz wyrażenia, które po podstawieniu w miejsce? zamienią formułę w
+          tautologię.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00093.png"
+        />
+        <div class="question__searchable">
+          Niech będzie bijekcją ze zbioru w zbior oraz. Co można powiedziec o
+          zbiorze dla różnych liczb naturalnych n i m?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00094.png"
+        />
+        <div class="question__searchable">
+          Surjekcją jest funkcja taka, że oraz:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00095.png"
+        />
+        <div class="question__searchable">
+          Niech oznaczają indeksowane rodziny podzbiorów uniwersum indeksowane
+          elementami ze zbioru indeksów. Twierdzenie można zapisać jako:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00096.png"
+        />
+        <div class="question__searchable">
+          Niech liczba kardynalna. Zaznacz zdania prawdziwe.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00097.png"
+        />
+        <div class="question__searchable">
+          Dla zbioru częściowo uporządkowanego gdzie oznacza podzielność,
+          znaleźć supremum zbioru (-1 jeżeli nie istnieje)
+        </div>
+        <div class="question__notes">
+          Do zrobienia (2 też jest źle) 3 również
+        </div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00098.png"
+        />
+        <div class="question__searchable">
+          Rozwazmy wyrazenie postaci w ktorym zdanie wystepuje razy. Z
+          ponizszych zdan wskaz prawdziwe stwierdzenia.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00099.png"
+        />
+        <div class="question__searchable">
+          Niech będzie zbiorem liter występujących w wyrazie "informatyka", a
+          zbiorem liter występujących w wyrazie "komputery". Proszę wypisać
+          alfabetycznie (bez spacji, przecinków itp.) elementy zbioru
+        </div>
+        <div class="question__notes">Powinno być afin</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00100.png"
+        />
+        <div class="question__searchable">
+          Dane są funkcje takie że oraz zbiory. Prawdą jest, że:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00101.png"
+        />
+        <div class="question__searchable">
+          Dopasuj wyrażenia z lewej kolumny z wyrażeniami z kolumny prawej w
+          taki sposób, aby utworzona została tautologia rachunku
+          kwantyfikatorów.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00102.png"
+        />
+        <div class="question__searchable">
+          Rozważmy dwa elementy zbioru oraz. Które stwierdzenia o ich różnicy są
+          prawdziwe?
+        </div>
+        <div class="question__notes">Nie wiem jak z c</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00103.png"
+        />
+        <div class="question__searchable">
+          Relacją częściowego porządku jest:
+        </div>
+        <div class="question__notes">Nie wiem jak z a</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00104.png"
+        />
+        <div class="question__searchable">
+          Dopasuj wyrażenia z lewej kolumny z wyrażeniami z kolumny prawej w
+          taki sposób, aby utworzona została tautologia rachunku
+          kwantyfikatorów.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00105.png"
+        />
+        <div class="question__searchable">
+          Niech i będą indeksowanymi rodzinami zbiorami. Poniżej znajduje się
+          poprawny lub błedny dowód formuły. Dowód: Jeżeli dowód jest poprawny
+          wpisz 0. Jeżeli dowód jest błędny wpisz numer pierwszego blędnego
+          przejścia, który znajduje się w nawiasie nad równoważnoścą lub
+          implikacją. Jeżeli każde przejście jest prawdziwe, a dwód mimo to jest
+          błędny, czyli udowodniono coś innego, wpisz -1. Zakładamy, że xeX i
+          neN, zakres zmienności pominięto dla skrócenia zapisu i nie należy
+          tego traktować jako błędu. Odpowiedź:
+        </div>
+        <div class="question__notes">Był błąd systemu, 3 jest dobrze</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00106.png"
+        />
+        <div class="question__searchable">
+          Dla zbioru częściowo uporządkowanego podaj liczbę majorant rodziny
+          zbiorów (0 jeżeli nie istnieje)
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00107.png"
+        />
+        <div class="question__searchable"></div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00108.png"
+        />
+        <div class="question__searchable">
+          Niec i Podaj liczbę suriekcji (f. "na"). (0 jeżeli nie istnieje)
+        </div>
+        <div class="question__notes">Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00109.png"
+        />
+        <div class="question__searchable">
+          Z poniższych równości wybierz wszystkie będące tożsamościami rachunku
+          zbiorów
+        </div>
+        <div class="question__notes">Możliwe że brakuje</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00110.png"
+        />
+        <div class="question__searchable">
+          Niech będzie formą zdaniową z argumentem przyjmującym wartości
+          należące do niepustego uniwersum, a zdaniem logicznym. Wskaż wszystkie
+          tautologie.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00111.png"
+        />
+        <div class="question__searchable">
+          Na zbiorach i definiujemy relację oraz. Wskaż wszystkie prawdziwe
+          stwierdzenia:
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00112.png"
+        />
+        <div class="question__searchable">
+          Niech zbiór a zbiór. Ile jest wszystkich funkcji które nie są
+          suriekcjami
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00113.png"
+        />
+        <div class="question__searchable">
+          Rozważmy funkcję Obraz zbioru przez funkcję oznaczamy jako a
+          przeciwobraz zbioru oznaczamy jako Wskaż wszystkie prawdziwe
+          stwierdzenia.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00114.png"
+        />
+        <div class="question__searchable">Tautologią jest:</div>
+        <div class="question__notes">Do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00115.png"
+        />
+        <div class="question__searchable">
+          Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja.
+        </div>
+        <div class="question__notes">do zrobienia</div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00116.png"
+        />
+        <div class="question__searchable">
+          Rozważmy formę zdaniową określoną dla i będacych liczbami całkowitymi
+          Z poniższej listy wybierz wszystkie zdania prawdziwe
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00117.png"
+        />
+        <div class="question__searchable">
+          Rozwazmy rownosc Czy prawda jest ze
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00118.png"
+        />
+        <div class="question__searchable">
+          Niech będa dowolnymi formami zdaniowymi zmiennej w zbiorze Zaznacz
+          zdania zawsze prawdziwe.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00119.png"
+        />
+        <div class="question__searchable">
+          Dla definiujemy zbiory . Z ilu elementów składa się zbiór ?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00120.png"
+        />
+        <div class="question__searchable">
+          Niech taką że gdzie oznacza resztę z dzielenia liczby przez Zaznacz
+          zdanie prawdziwe o
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00121.png"
+        />
+        <div class="question__searchable">
+          Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00122.png"
+        />
+        <div class="question__searchable">
+          Niech i będa liczbami rzeczywistymi traktowanymi jako klasy dolne
+          przekrojów Dedekinda zbioru Q Wówczas
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00123.png"
+        />
+        <div class="question__searchable">
+          Dane są dwie funkcje i Dla jakich funkcji złożenie g o f jest
+          surjekcją?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00124.png"
+        />
+        <div class="question__searchable">
+          Dane są rodziny zbiorów Co możemy wstawić w puste pole
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00125.png"
+        />
+        <div class="question__searchable">
+          Sparuj prawo logiki z jego nazwą.
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00126.png"
+        />
+        <div class="question__searchable">
+          Niech taką, że gdzie oznacza resztę z dzielenia liczby przez Zaznacz
+          zdanie prawdziwe o f
+        </div>
+        <div class="question__notes"></div>
+      </li>
+      <li class="exam-questions__question question">
+        <div class="question__counter">#</div>
+        <img
+          class="question__image"
+          alt="Brak zdjecia"
+          src="./assets/00127.png"
+        />
+        <div class="question__searchable">
+          Które z poniżej zdefiniowanych relacji na zbiorze par liczb
+          całkowitych staniwą relację częsciowego porządku, ale nie liniowego
+          porządku?
+        </div>
+        <div class="question__notes"></div>
+      </li>
+    </ul>
+  </body>
+  <script>
+    document
+      .querySelectorAll('.question .question__counter')
+      .forEach((counter, index) => (counter.innerHTML = `#${index + 1}`));
+  </script>
+</html>
