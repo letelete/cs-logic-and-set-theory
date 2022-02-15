@@ -1,5 +1,6 @@
-name: Main
-on: [push]
+name: Archive
+on:
+  push: { branches: [main] }
 
 jobs:
   my_job:
