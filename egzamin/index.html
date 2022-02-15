@@ -16,6 +16,8 @@
       body {
         margin: 0;
         font-family: 'Fira Code', monospace;
+        color: rgba(0, 0, 0, 0.87);
+        line-height: 1.4;
       }
 
       * {
@@ -48,11 +50,17 @@
         border: 1px solid rgba(0, 0, 0, 0.6);
       }
 
-      .question .question__counter {
+      .question .question__header {
+        width: 100%;
         display: flex;
-        align-items: center;
-        justify-items: center;
+        flex-flow: row;
         padding: 0 1rem;
+        align-items: center;
+        column-gap: 1rem;
+        flex-wrap: wrap;
+        white-space: break-spaces;
+        line-break: anywhere;
+        color: rgba(0, 0, 0, 0.6);
       }
 
       .question .question__container {
@@ -86,48 +94,68 @@
     </style>
   </head>
   <body>
+    <h1 class="details"></h1>
     <input type="file" class="file-selector" multiple />
     <ul class="exam-questions"></ul>
   </body>
   <script>
     const ASSETS_PATH = './assets';
+    const details = document.querySelector('.details');
     const fileSelector = document.querySelector('.file-selector');
     const questionsList = document.querySelector('.exam-questions');
 
-    const createListElement = (data) => {
+    const createListElement = (data, index) => {
       const li = document.createElement('li');
       li.setAttribute('data-id', data.id);
       li.classList.add('exam-questions__question', 'question');
-      const counter = document.createElement('div');
+
+      const headerContainer = document.createElement('div');
+      headerContainer.classList.add('question__header');
+
+      const counter = document.createElement('span');
       counter.classList.add('question__counter');
-      counter.innerHTML = data.id;
-      li.appendChild(counter);
+      counter.innerHTML = `#${index + 1}`;
+      headerContainer.appendChild(counter);
+
+      const id = document.createElement('span');
+      id.classList.add('question__id');
+      id.innerHTML = data.id;
+      headerContainer.appendChild(id);
+      li.appendChild(headerContainer);
+
       const divContainer = document.createElement('div');
       divContainer.classList.add('question__container');
+
       const img = document.createElement('img');
       img.classList.add('question__image');
       img.setAttribute('src', `${ASSETS_PATH}/${data.img}`);
       img.setAttribute('alt', 'Zdjecie przedstawiajace poprawne odpowiedzi');
       divContainer.appendChild(img);
+
       const divQuestion = document.createElement('div');
       divQuestion.classList.add('question__searchable');
       divQuestion.innerHTML = data.question;
       divContainer.appendChild(divQuestion);
+
       const divNotes = document.createElement('div');
       divNotes.classList.add('question__notes');
       divNotes.innerHTML = data.notes;
       divContainer.appendChild(divNotes);
       li.appendChild(divContainer);
+
       return li;
     };
 
     const handleFileSelectorChange = (event) => {
       const fileList = event.target.files;
       const fr = new FileReader();
-      fr.onload = () =>
-        JSON.parse(fr.result)
+      fr.onload = () => {
+        const records = JSON.parse(fr.result);
+        details.innerHTML = `Zaladowano ${records.length} rekordow`;
+        records
           .map(createListElement)
           .forEach((node) => questionsList.appendChild(node));
+      };
       fr.readAsText(fileList[0]);
     };
 
