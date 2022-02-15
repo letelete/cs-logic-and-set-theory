@@ -17,8 +17,10 @@ jobs:
           zip -r archive.zip *
 
       - name: Upload to gdrive
-        uses: team-tumbleweed/gdrive-upload-action@main
+        uses: adityak74/google-drive-upload-git-action@main
         with:
-          filename: "egzamin"
-          folderId: ${{ secrets.GSA_FOLDER_ID }}
           credentials: ${{ secrets.GSA_CREDENTIALS }}
+          filename: "archive.zip"
+          folderId: ${{ secrets.GSA_FOLDER_ID }}
+          overwrite: "true"
+          
