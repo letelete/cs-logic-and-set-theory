@@ -19,7 +19,6 @@ jobs:
       - name: Upload to gdrive
         uses: team-tumbleweed/gdrive-upload-action@main
         with:
-          filename: "egzamin.zip"
-          name: "egzamin.zip"
+          filename: "egzamin"
           folderId: ${{ secrets.GSA_FOLDER_ID }}
           credentials: ${{ secrets.GSA_CREDENTIALS }}
