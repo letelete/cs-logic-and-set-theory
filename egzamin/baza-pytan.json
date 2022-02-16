@@ -255,7 +255,7 @@
     "created_at": "2022-02-15 13:40:38.085829",
     "id": "15739325-9959-48e4-b9ea-26daa23f9116",
     "img": "15739325-9959-48e4-b9ea-26daa23f9116.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Która z funkcji jest bijekcją?"
   },
   {
@@ -325,7 +325,7 @@
     "created_at": "2022-02-15 13:40:38.085922",
     "id": "0b4513bf-6031-4cf2-b19c-6829b2fd00e5",
     "img": "0b4513bf-6031-4cf2-b19c-6829b2fd00e5.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Niech funkcja f : X -> Y będzie injekcją, a gdy g: Y -> Z będzie surjekcją. Wskaż wszystkie prawdziwe stwierdzenia:"
   },
   {
@@ -381,14 +381,14 @@
     "created_at": "2022-02-15 13:40:38.085997",
     "id": "3ed6abde-10e4-4daa-96a9-2c598ad3a6da",
     "img": "3ed6abde-10e4-4daa-96a9-2c598ad3a6da.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Na zbiorze X x X mamy daną pewną relację równoważnosci R. Jeżeli zdeifniujemy teraz relację S na zbiorze (X/R) x (P(X) taką, że"
   },
   {
     "created_at": "2022-02-15 13:40:38.086006",
     "id": "a2447a52-1fd2-48da-af0c-c52f57daa853",
     "img": "a2447a52-1fd2-48da-af0c-c52f57daa853.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Czy zlozenie dwoch relacji rownowaznosci jest relacja rownowaznosci? Wybierz jedna odpowiedz"
   },
   {
@@ -437,7 +437,7 @@
     "created_at": "2022-02-15 13:40:38.086069",
     "id": "82a33906-945e-442e-8e7d-540fdb0909df",
     "img": "82a33906-945e-442e-8e7d-540fdb0909df.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Zaznacz zdania równoważne zdaniu."
   },
   {
@@ -458,7 +458,7 @@
     "created_at": "2022-02-15 13:40:38.086097",
     "id": "55112c65-e9b2-407c-96b0-c15e643b2313",
     "img": "55112c65-e9b2-407c-96b0-c15e643b2313.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Wybierz własności, które spełnione śa przez wszystkie surjekcje f : X -> Y, gdzie X i Y są niepustymi i rozłącznymi zbiorami"
   },
   {
@@ -507,7 +507,7 @@
     "created_at": "2022-02-15 13:40:38.086162",
     "id": "21af5c4c-41c8-4a27-9ed8-e55547748462",
     "img": "21af5c4c-41c8-4a27-9ed8-e55547748462.png",
-    "notes": "Do zrobieni'",
+    "notes": "100% zweryfikowane",
     "question": "Majorantą przedziału (0,1) w R ze zwykłym porządkiem <= jest:"
   },
   {
@@ -521,7 +521,7 @@
     "created_at": "2022-02-15 13:40:38.086181",
     "id": "ffc50e7c-aae6-4115-8fff-8991b2995812",
     "img": "ffc50e7c-aae6-4115-8fff-8991b2995812.png",
-    "notes": "Do zrobieni'",
+    "notes": "100% zweryfikowane",
     "question": "Rozważmy dowolną bijekcję ze zbioru na . Czy prawdą jest, że:"
   },
   {
@@ -577,7 +577,7 @@
     "created_at": "2022-02-15 13:40:38.086254",
     "id": "4524434d-6a44-490a-8050-db31afd058c5",
     "img": "4524434d-6a44-490a-8050-db31afd058c5.png",
-    "notes": "Do zrobieni'",
+    "notes": "a",
     "question": "Co możemy powiedzieć o liczbie relacji porządku określonych na zbiorze X o co najmniej rzech elemenach. Zaznacz zdanie prawdziwe"
   },
   {
@@ -682,7 +682,7 @@
     "created_at": "2022-02-15 13:40:38.086392",
     "id": "2e88b47a-a29e-452c-bf04-e32e46010e6d",
     "img": "2e88b47a-a29e-452c-bf04-e32e46010e6d.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Rozwazmy wyrazenie postaci w ktorym zdanie wystepuje razy. Z ponizszych zdan wskaz prawdziwe stwierdzenia."
   },
   {
@@ -752,14 +752,14 @@
     "created_at": "2022-02-15 13:40:38.086483",
     "id": "9130419e-6885-44de-ba76-95208cc7324f",
     "img": "9130419e-6885-44de-ba76-95208cc7324f.png",
-    "notes": "Do zrobieni'",
+    "notes": "3",
     "question": "Niec i Podaj liczbę suriekcji (f. \"na\"). (0 jeżeli nie istnieje)"
   },
   {
     "created_at": "2022-02-15 13:40:38.086493",
     "id": "d3aed700-c414-48f2-95f1-721233fe7263",
     "img": "d3aed700-c414-48f2-95f1-721233fe7263.png",
-    "notes": "Możliwe że brakuj'",
+    "notes": "100% zweryfikowane",
     "question": "Z poniższych równości wybierz wszystkie będące tożsamościami rachunku zbiorów"
   },
   {
@@ -808,7 +808,7 @@
     "created_at": "2022-02-15 13:40:38.086557",
     "id": "d1cce7cf-749d-4761-8aae-36eb5bdde164",
     "img": "d1cce7cf-749d-4761-8aae-36eb5bdde164.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Rozważmy formę zdaniową określoną dla i będacych liczbami całkowitymi Z poniższej listy wybierz wszystkie zdania prawdziwe"
   },
   {
@@ -899,7 +899,7 @@
     "created_at": "2022-02-15 13:40:38.086677",
     "id": "8fef635f-1591-447c-b185-3675702becb1",
     "img": "8fef635f-1591-447c-b185-3675702becb1.png",
-    "notes": "",
+    "notes": "100% zweryfikowane",
     "question": "Wybierz wlasnosci ktore moga byc spelnione przez przynajmniej niektore funkcje gdzie i sa niepustymi i rozlacznymi zbiorami"
   },
   {
@@ -1118,5 +1118,19 @@
     "img": "38217bf7-05b2-4803-8b77-90fd745ce494.png",
     "notes": "100% zweryfikowane",
     "question": "Dany jest zbior jego podzbior wlasciwy oraz bijekcja Zaznacz zdanie/a prawdziwe o zbiorze"
+  },
+  {
+    "created_at": "2022-02-16 15:50:19.954184",
+    "id": "72b5a22c-bea5-430f-9933-7ecac1eebaaf",
+    "img": "72b5a22c-bea5-430f-9933-7ecac1eebaaf.png",
+    "notes": "100% zweryfikowane;tylko D",
+    "question": "Niech liczba kardynalna. Zaznacz zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-16 16:04:45.235636",
+    "id": "f0cf302d-b56f-4d48-aa60-f59aaf433fdf",
+    "img": "f0cf302d-b56f-4d48-aa60-f59aaf433fdf.png",
+    "notes": "100% zweryfikowane",
+    "question": "Niech oznacza zbior potegowy zbioru"
   }
 ]
