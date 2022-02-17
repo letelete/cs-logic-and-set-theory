@@ -1,0 +1,93 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fira Code', monospace;
+  color: rgba(0, 0, 0, 0.87);
+  line-height: 1.4;
+  width: 100%;
+  padding: 2rem 1rem;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.exam-questions {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  list-style: none;
+  row-gap: 2.5em;
+  background: white;
+  margin: 0;
+  padding: 0rem;
+}
+
+.exam-questions__question.question {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.16);
+  position: relative;
+}
+
+.question .question__container > :nth-child(odd) {
+  background: #ececec;
+}
+
+.question > * {
+  border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.question .question__header {
+  width: 100%;
+  display: flex;
+  flex-flow: row;
+  padding: 0 1rem;
+  align-items: center;
+  column-gap: 1rem;
+  flex-wrap: wrap;
+  white-space: break-spaces;
+  line-break: anywhere;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.question .question__container {
+  width: 100%;
+  display: flex;
+  flex-flow: row;
+  flex-wrap: nowrap;
+}
+
+@media (max-width: 600px) {
+  .question .question__container {
+    flex-flow: column;
+  }
+}
+
+.question .question__image,
+.question .question__searchable,
+.question .question__notes {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.question .question__image {
+  object-fit: contain;
+  object-position: left;
+  min-width: 60%;
+}
+
+.question .question__searchable,
+.question .question__notes {
+  padding: 1.75em 1rem;
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  .question .question__searchable {
+    line-break: anywhere;
+  }
+}

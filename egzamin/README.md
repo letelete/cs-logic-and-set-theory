@@ -1,6 +1,27 @@
 # Baza pytan do egzaminu z Logiki i Teorii Mnogosci
 
+Podglad bazy jest publicznie dostepny (na ten moment\*) i znajduje sie pod adresem: [litm.vercel.app](https://litm.vercel.app/)
+
+\* - nalezaloby hostowac pliki z folderu [assets](./assets/) w chmurze; moznaby uzyc do tego CI/CD z Cloudinary (jesli mozliwe); na ten moment, aby strona uzyskala dostep do plikow, repozytorium **musi** pozostac publiczne
+
 ## Informacje
+
+## Podglad rekordow
+
+### Zdalnie
+
+Najnowszy build statycznego htmla z danymi z pliku [baza-pytan.json](./baza-pytan.json) znajduje sie pod adresem [litm.vercel.app](https://litm.vercel.app/)
+
+### Lokalnie
+
+1. Instalujemy srodowisko [Node](https://nodejs.org/en/download/)
+2. Z poziomu folderu "egzamin" uruchamiamy w terminalu:
+   ```
+   $ npm install
+   $ npm run build
+   ```
+3. Wygenerowana strona znajduje sie pod sciezka [public/index.html](./public/index.html)
+4. Nalezy otworzyc plik index.html w przegladarce
 
 Plik [index.html](./index.html) umozliwia podglad rekordow z bazy w pliku [baza-pytan.json](./baza-pytan.json) (Na ten moment, to bardzo prosta aplikacja oferujaca najbardziej podstawowe funkcje)
 

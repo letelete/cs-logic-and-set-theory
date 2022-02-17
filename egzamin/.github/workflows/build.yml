@@ -1,0 +1,29 @@
+name: Build static html from the database file
+
+on:
+  push
+  # push: { branches: [main] }
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Use Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16.x'
+      - name: Install node dependencies
+        run: npm install
+      - name: Run build process
+        run: npm run build
+      - name: Commit and push
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "Bot-Alfred"
+          git add -A
+          git commit -m "Generate new website based on the database file" || git commit --allow-empty -m "Empty commit"
+          git push
