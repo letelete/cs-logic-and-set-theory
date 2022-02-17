@@ -1,0 +1,11 @@
+{
+  "name": "build-static-website",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Builds static website from the selected database file",
+  "main": "build-static-website.js",
+  "scripts": {
+    "build": "node build-static-website.js databaseFilePath=\"baza-pytan.json\" buildDirPath=\"./public\""
+  },
+  "license": "ISC"
+}
