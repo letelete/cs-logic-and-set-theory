@@ -1132,5 +1132,12 @@
     "img": "f0cf302d-b56f-4d48-aa60-f59aaf433fdf.png",
     "notes": "100% zweryfikowane",
     "question": "Niech oznacza zbior potegowy zbioru"
+  },
+  {
+    "created_at": "2022-02-17 19:38:16.300162",
+    "id": "59e08296-50a8-4f21-b0ac-9d50cc2340c5",
+    "img": "59e08296-50a8-4f21-b0ac-9d50cc2340c5.png",
+    "notes": "",
+    "question": "Wezmy relacje rownowaznosci na zbiorze liczb naturalnych Zaznacz zdania prawdziwe"
   }
 ]
