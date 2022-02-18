@@ -4,21 +4,21 @@
     "id": "d3d5bb76-a49f-444a-8f1d-7d28a17242d6",
     "img": "d3d5bb76-a49f-444a-8f1d-7d28a17242d6.png",
     "notes": "Moze cos jeszcze",
-    "question": "Niech i ozaczają indeksowane rodziny podzbiorów uniwersum indeksowane elementami ze zbioru indeksów Twierdzenie można zapisać jako:"
+    "question": "Niech i oznaczają indeksowane rodziny podzbiorów uniwersum indeksowane elementami ze zbioru indeksów Twierdzenie można zapisać jako:"
   },
   {
     "created_at": "2022-02-15 13:40:38.085494",
     "id": "368fd923-d589-44b6-8456-380c17ed536c",
     "img": "368fd923-d589-44b6-8456-380c17ed536c.png",
     "notes": "",
-    "question": "Dla zbioru czesciowo uporzadkowanego podaj liczbe majorant rodziny zbiorow (0 jezeli nie istnieje)"
+    "question": "Dla zbioru częściowo uporządkowanego podaj liczbę majorant rodziny zbiorów (0 jeżeli nie istnieje)"
   },
   {
     "created_at": "2022-02-15 13:40:38.085505",
     "id": "31f203b6-ecbc-4fc9-bd30-33a0f67d30eb",
     "img": "31f203b6-ecbc-4fc9-bd30-33a0f67d30eb.png",
     "notes": "",
-    "question": "Niech taka, ze gdzie oznacza reszte z dzielenia liczby przez Zaznacz zdanie prawdziwe"
+    "question": "Niech f taką, że f(x) = mod(x,3) gdzie mod(a,b) oznacza resztę z dzielenia liczby a przez b. Zaznacz zdanie prawdziwe o f."
   },
   {
     "created_at": "2022-02-15 13:40:38.085518",
@@ -35,39 +35,25 @@
     "question": "Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja."
   },
   {
-    "created_at": "2022-02-15 13:40:38.085538",
-    "id": "2d6839d3-7a35-4164-be14-56db2863fd4d",
-    "img": "2d6839d3-7a35-4164-be14-56db2863fd4d.png",
-    "notes": "",
-    "question": "Na dziedzinie definiujemy funkcje o wartościach oraz Która z poniższych relacji również jest funkcją na tej samej dziedzinie?"
-  },
-  {
-    "created_at": "2022-02-15 13:40:38.085550",
-    "id": "90c7f5b8-8414-4802-9557-8bfeebc06bbc",
-    "img": "90c7f5b8-8414-4802-9557-8bfeebc06bbc.png",
-    "notes": "",
-    "question": "Rozważmy funkcję Obraz zbioru przez funkcję oznaczamy jako Wskaż wszystkie prawdziwe stwierdzenia:"
-  },
-  {
     "created_at": "2022-02-15 13:40:38.085559",
     "id": "a6071184-4fef-4178-af96-ad46c369e34d",
     "img": "a6071184-4fef-4178-af96-ad46c369e34d.png",
     "notes": "",
-    "question": "Zaznacz operacje które są przemienne."
+    "question": "Zaznacz operacje, które są przemienne."
   },
   {
     "created_at": "2022-02-15 13:40:38.085568",
     "id": "17c914bb-f616-4dc1-a06e-69c50bbef3a0",
     "img": "17c914bb-f616-4dc1-a06e-69c50bbef3a0.png",
     "notes": "",
-    "question": "Niech p oznacza zdanie logiczne a 1 zdanie prawdziwe Wskaż wszystkie tautologie"
+    "question": "Niech p oznacza zdanie logiczne, a 1 zdanie prawdziwe. Wskaż wszystkie tautologie"
   },
   {
     "created_at": "2022-02-15 13:40:38.085578",
     "id": "1bcf4178-bcaf-4ab2-88c6-8fa5c713f68b",
     "img": "1bcf4178-bcaf-4ab2-88c6-8fa5c713f68b.png",
     "notes": "",
-    "question": "Niech oznacza zbiór potęgowy zbioru a o oznacza różnicę symetryczną zbiorów jest równe"
+    "question": "Niech P(X) oznacza zbiór potęgowy zbioru a o oznacza różnicę symetryczną zbiorów jest równe"
   },
   {
     "created_at": "2022-02-15 13:40:38.085587",
@@ -116,7 +102,7 @@
     "id": "f4f391ec-7150-4051-acbc-682853f72857",
     "img": "f4f391ec-7150-4051-acbc-682853f72857.png",
     "notes": "",
-    "question": "Czy relacja może być jednocześnie symetrzyczna, antysymetryczna i spójna?"
+    "question": "Czy relacja może być jednocześnie symetryczna, antysymetryczna i spójna?"
   },
   {
     "created_at": "2022-02-15 13:40:38.085652",
@@ -203,13 +189,6 @@
     "question": "Na zbiorze definiujemy relacje oraz . Czy prawdą jest, że:"
   },
   {
-    "created_at": "2022-02-15 13:40:38.085764",
-    "id": "ee9f3157-c863-4ecb-95f4-05e23a798c09",
-    "img": "ee9f3157-c863-4ecb-95f4-05e23a798c09.png",
-    "notes": "",
-    "question": "Niech i będą formami zdaniowymi z argumentem przyjmującym wartości należące do niepustego uniwersum. Wskaż wszystkie tautologie."
-  },
-  {
     "created_at": "2022-02-15 13:40:38.085774",
     "id": "fac775a0-bc74-4177-b61e-4638bebd6a33",
     "img": "fac775a0-bc74-4177-b61e-4638bebd6a33.png",
@@ -229,13 +208,6 @@
     "img": "172cfd40-2511-4fda-82b7-57a163839d5b.png",
     "notes": "",
     "question": "Dana jest funkcja zdefiniowana następująco: jeśli oraz jeśli . Które zdania są prawdziwe?"
-  },
-  {
-    "created_at": "2022-02-15 13:40:38.085801",
-    "id": "cb4ddf43-b87c-4df0-bb60-a62c20aef4af",
-    "img": "cb4ddf43-b87c-4df0-bb60-a62c20aef4af.png",
-    "notes": "",
-    "question": "Czy istnieją relacje, które są jednocześnie symetryczne i antysymetryczne?"
   },
   {
     "created_at": "2022-02-15 13:40:38.085810",
@@ -473,13 +445,13 @@
     "id": "886aa058-4241-4797-875f-e97638c7bd26",
     "img": "886aa058-4241-4797-875f-e97638c7bd26.png",
     "notes": "0/1 pkt. - 2 dobrz'",
-    "question": "Wskaż podzbioru zbioru A' - B' - C', dla dowolnego wyboru zbiorów A, B, C."
+    "question": "Wskaż podzbiory zbioru A' - B' - C', dla dowolnego wyboru zbiorów A, B, C."
   },
   {
     "created_at": "2022-02-15 13:40:38.086125",
     "id": "030acf7a-98f2-46cc-be53-37dd73808258",
     "img": "030acf7a-98f2-46cc-be53-37dd73808258.png",
-    "notes": "",
+    "notes": "Żadna z odpowiedzi na zdjęciu nie jest prawidłowa. Możliwe, że chodziło o funkcje typu y - x^2 = 16. Należy sprawdzić każdą funkcję po kolei programem wolframalpha.",
     "question": "Które relacje R C R x R są funkcjami?"
   },
   {
@@ -567,18 +539,11 @@
     "question": "Niech R będzie relacją równoważności na zbiorze X, |X| > 2. Wtedy zachodzi:"
   },
   {
-    "created_at": "2022-02-15 13:40:38.086245",
-    "id": "10ff58d1-9ee8-455a-86cb-eeccde1c577c",
-    "img": "10ff58d1-9ee8-455a-86cb-eeccde1c577c.png",
-    "notes": "Do zrobieni'",
-    "question": "Ile różnych relacji częściowego porządku można wprowadzić na zbiorze dwuelementowym"
-  },
-  {
     "created_at": "2022-02-15 13:40:38.086254",
     "id": "4524434d-6a44-490a-8050-db31afd058c5",
     "img": "4524434d-6a44-490a-8050-db31afd058c5.png",
     "notes": "a",
-    "question": "Co możemy powiedzieć o liczbie relacji porządku określonych na zbiorze X o co najmniej rzech elemenach. Zaznacz zdanie prawdziwe"
+    "question": "Co możemy powiedzieć o liczbie relacji porządku określonych na zbiorze X o co najmniej trzech elemenach. Zaznacz zdanie prawdziwe"
   },
   {
     "created_at": "2022-02-15 13:40:38.086263",
@@ -644,25 +609,11 @@
     "question": "Zaznacz wyrażenia, które po podstawieniu w miejsce? zamienią formułę w tautologię."
   },
   {
-    "created_at": "2022-02-15 13:40:38.086346",
-    "id": "4b218423-b086-412d-aeed-e3698b935d19",
-    "img": "4b218423-b086-412d-aeed-e3698b935d19.png",
-    "notes": "",
-    "question": "Niech będzie bijekcją ze zbioru w zbior oraz. Co można powiedziec o zbiorze dla różnych liczb naturalnych n i m?"
-  },
-  {
     "created_at": "2022-02-15 13:40:38.086355",
     "id": "a4f489b2-d9ef-4284-85a0-ade327a13eb5",
     "img": "a4f489b2-d9ef-4284-85a0-ade327a13eb5.png",
     "notes": "",
     "question": "Surjekcją jest funkcja taka, że oraz:"
-  },
-  {
-    "created_at": "2022-02-15 13:40:38.086365",
-    "id": "d80a9d37-d1df-48c4-afce-3ee7166dbdde",
-    "img": "d80a9d37-d1df-48c4-afce-3ee7166dbdde.png",
-    "notes": "",
-    "question": "Niech oznaczają indeksowane rodziny podzbiorów uniwersum indeksowane elementami ze zbioru indeksów. Twierdzenie można zapisać jako:"
   },
   {
     "created_at": "2022-02-15 13:40:38.086374",
@@ -689,7 +640,7 @@
     "created_at": "2022-02-15 13:40:38.086401",
     "id": "c0085272-3140-4ff9-b745-63daac44fbc7",
     "img": "c0085272-3140-4ff9-b745-63daac44fbc7.png",
-    "notes": "Powinno być afi'",
+    "notes": "Powinno być afin",
     "question": "Niech będzie zbiorem liter występujących w wyrazie \"informatyka\", a zbiorem liter występujących w wyrazie \"komputery\". Proszę wypisać alfabetycznie (bez spacji, przecinków itp.) elementy zbioru"
   },
   {
@@ -717,7 +668,7 @@
     "created_at": "2022-02-15 13:40:38.086438",
     "id": "f2d428f3-e5dd-49df-be82-2c5595132752",
     "img": "f2d428f3-e5dd-49df-be82-2c5595132752.png",
-    "notes": "Nie wiem jak z '",
+    "notes": "a fałsz",
     "question": "Relacją częściowego porządku jest:"
   },
   {
@@ -735,25 +686,11 @@
     "question": "Niech i będą indeksowanymi rodzinami zbiorami. Poniżej znajduje się poprawny lub błedny dowód formuły. Dowód: Jeżeli dowód jest poprawny wpisz 0. Jeżeli dowód jest błędny wpisz numer pierwszego blędnego przejścia, który znajduje się w nawiasie nad równoważnoścą lub implikacją. Jeżeli każde przejście jest prawdziwe, a dwód mimo to jest błędny, czyli udowodniono coś innego, wpisz -1. Zakładamy, że xeX i neN, zakres zmienności pominięto dla skrócenia zapisu i nie należy tego traktować jako błędu. Odpowiedź:"
   },
   {
-    "created_at": "2022-02-15 13:40:38.086465",
-    "id": "9cc0331f-2efa-4e87-b775-d889e9af66ea",
-    "img": "9cc0331f-2efa-4e87-b775-d889e9af66ea.png",
-    "notes": "",
-    "question": "Dla zbioru częściowo uporządkowanego podaj liczbę majorant rodziny zbiorów (0 jeżeli nie istnieje)"
-  },
-  {
-    "created_at": "2022-02-15 13:40:38.086474",
-    "id": "9590b12a-036e-422c-93da-4dab7d178082",
-    "img": "9590b12a-036e-422c-93da-4dab7d178082.png",
-    "notes": "",
-    "question": ""
-  },
-  {
     "created_at": "2022-02-15 13:40:38.086483",
     "id": "9130419e-6885-44de-ba76-95208cc7324f",
     "img": "9130419e-6885-44de-ba76-95208cc7324f.png",
-    "notes": "3",
-    "question": "Niec i Podaj liczbę suriekcji (f. \"na\"). (0 jeżeli nie istnieje)"
+    "notes": "6",
+    "question": "Niech i Podaj liczbę suriekcji (f. \"na\"). (0 jeżeli nie istnieje)"
   },
   {
     "created_at": "2022-02-15 13:40:38.086493",
@@ -770,20 +707,6 @@
     "question": "Niech będzie formą zdaniową z argumentem przyjmującym wartości należące do niepustego uniwersum, a zdaniem logicznym. Wskaż wszystkie tautologie."
   },
   {
-    "created_at": "2022-02-15 13:40:38.086511",
-    "id": "6e5d44d4-a848-4f9e-bf67-59bcfed4f7f6",
-    "img": "6e5d44d4-a848-4f9e-bf67-59bcfed4f7f6.png",
-    "notes": "",
-    "question": "Na zbiorach i definiujemy relację oraz. Wskaż wszystkie prawdziwe stwierdzenia:"
-  },
-  {
-    "created_at": "2022-02-15 13:40:38.086520",
-    "id": "a5ae119f-872a-4668-a785-c2c4e9461e20",
-    "img": "a5ae119f-872a-4668-a785-c2c4e9461e20.png",
-    "notes": "",
-    "question": "Niech zbiór a zbiór. Ile jest wszystkich funkcji które nie są suriekcjami"
-  },
-  {
     "created_at": "2022-02-15 13:40:38.086530",
     "id": "f9f7c27c-9844-43c1-84e8-cad7f1a3a58c",
     "img": "f9f7c27c-9844-43c1-84e8-cad7f1a3a58c.png",
@@ -794,7 +717,7 @@
     "created_at": "2022-02-15 13:40:38.086539",
     "id": "fb9bf95e-cf24-46b6-8de0-466d75354d88",
     "img": "fb9bf95e-cf24-46b6-8de0-466d75354d88.png",
-    "notes": "Do zrobieni'",
+    "notes": "Tylko a, d",
     "question": "Tautologią jest:"
   },
   {
@@ -858,7 +781,7 @@
     "id": "3a053dbb-51cf-449f-9c00-6afc1b5c13f1",
     "img": "3a053dbb-51cf-449f-9c00-6afc1b5c13f1.png",
     "notes": "",
-    "question": "Dane są dwie funkcje i Dla jakich funkcji złożenie g o f jest surjekcją?"
+    "question": "Dane są dwie funkcje f i g. Które zdania są prawdziwe?"
   },
   {
     "created_at": "2022-02-15 13:40:38.086631",
@@ -1139,5 +1062,1335 @@
     "img": "59e08296-50a8-4f21-b0ac-9d50cc2340c5.png",
     "notes": "",
     "question": "Wezmy relacje rownowaznosci na zbiorze liczb naturalnych Zaznacz zdania prawdziwe"
+  },
+  {
+    "created_at": "2022-02-17 21:36:20.896794",
+    "id": "a6f441c1-ab06-4c94-9b75-91dcfbcba20a",
+    "img": "a6f441c1-ab06-4c94-9b75-91dcfbcba20a.png",
+    "notes": "",
+    "question": "Zaznacz wszystkie poprawne stwierdzenia. Część wspólna Suma"
+  },
+  {
+    "created_at": "2022-02-17 21:41:23.864758",
+    "id": "cc324d44-5c87-498d-ac71-7d04a9947b07",
+    "img": "cc324d44-5c87-498d-ac71-7d04a9947b07.png",
+    "notes": "",
+    "question": "Pewna relacja R na zbiorze spełnia warunek"
+  },
+  {
+    "created_at": "2022-02-17 21:43:23.314341",
+    "id": "72505c18-8444-4d04-8123-a2d368f4e75e",
+    "img": "72505c18-8444-4d04-8123-a2d368f4e75e.png",
+    "notes": "",
+    "question": "Rozważmy dwa elementy zbioru. Które stwierdzenia o ilorazie są prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 21:44:02.777612",
+    "id": "74104126-0ec3-4b9f-aa92-830241a4569d",
+    "img": "74104126-0ec3-4b9f-aa92-830241a4569d.png",
+    "notes": "",
+    "question": "Która funkcja nie jest surjekcją?"
+  },
+  {
+    "created_at": "2022-02-17 21:44:48.973540",
+    "id": "1b42d40e-9b2a-446d-b7f3-2334ba69b283",
+    "img": "1b42d40e-9b2a-446d-b7f3-2334ba69b283.png",
+    "notes": "",
+    "question": "Która funkcja posiada funkcję odwrotną?"
+  },
+  {
+    "created_at": "2022-02-17 21:45:37.812738",
+    "id": "5796fd96-7bf8-4699-b2ce-eb4348698cbd",
+    "img": "5796fd96-7bf8-4699-b2ce-eb4348698cbd.png",
+    "notes": "",
+    "question": "Zaznacz relacje R, które są relacjami częściowego porządku. Symbol | oznacza podzielność."
+  },
+  {
+    "created_at": "2022-02-17 21:46:38.786611",
+    "id": "3b264be2-0898-4bca-b1ce-39ee9ff29b31",
+    "img": "3b264be2-0898-4bca-b1ce-39ee9ff29b31.png",
+    "notes": "",
+    "question": "Niech (An) i (Bn) będą indeksowanymi rodzinami zbiorami. Poniżej znajduje się poprawny lub błędny dowód formuły. Dowód:"
+  },
+  {
+    "created_at": "2022-02-17 21:48:34.948272",
+    "id": "de0c76c9-91a3-4c34-8dcd-93599346e7ad",
+    "img": "de0c76c9-91a3-4c34-8dcd-93599346e7ad.png",
+    "notes": "",
+    "question": "Niech A i B będą dowolnymi zbiorami. Wyrażenie |A| oznacza moc zbioru. Zaznacz wszystkie prawdziwe zdania."
+  },
+  {
+    "created_at": "2022-02-17 21:49:07.981901",
+    "id": "92637fbd-439b-4a7b-977b-bcfc6419e5be",
+    "img": "92637fbd-439b-4a7b-977b-bcfc6419e5be.png",
+    "notes": "",
+    "question": "Zaznacz zdania, które zawsze wynikają ze zdania"
+  },
+  {
+    "created_at": "2022-02-17 21:50:00.223725",
+    "id": "e216473c-9641-4b88-a5f6-c0c6e8d1ef16",
+    "img": "e216473c-9641-4b88-a5f6-c0c6e8d1ef16.png",
+    "notes": "",
+    "question": "Niech będzie formą zdaniową dwóch zmiennych x i y, których zakresem zmienności jest zbiór liczb naturalnych N, taką, że Zaznacz prawdziwą odpowiedź dla wyrażenia"
+  },
+  {
+    "created_at": "2022-02-17 21:57:41.187515",
+    "id": "f5bd10f3-94e8-4a40-8115-5461acc59f10",
+    "img": "f5bd10f3-94e8-4a40-8115-5461acc59f10.png",
+    "notes": "",
+    "question": "Które z propozycji nie są poprawnymi kontrprzykładami na to, że"
+  },
+  {
+    "created_at": "2022-02-17 21:58:16.450564",
+    "id": "88e0594f-f582-439b-91fa-598004821393",
+    "img": "88e0594f-f582-439b-91fa-598004821393.png",
+    "notes": "",
+    "question": "Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja"
+  },
+  {
+    "created_at": "2022-02-17 21:58:55.315082",
+    "id": "c0e875a0-dec6-494a-b910-42f741428b28",
+    "img": "c0e875a0-dec6-494a-b910-42f741428b28.png",
+    "notes": "",
+    "question": "Niech R będzie relacją na zbiorze zdefiniowaną w następujący sposób. Wskaż prawdziwe zdania"
+  },
+  {
+    "created_at": "2022-02-17 22:00:23.108797",
+    "id": "d65660bb-050a-4ae7-97bb-d269be66c70b",
+    "img": "d65660bb-050a-4ae7-97bb-d269be66c70b.png",
+    "notes": "",
+    "question": "Niech T będzie niepustym zbiorem indeksów. Dla zbioru A zachodzi wtedy i tylko wtedy, gdy"
+  },
+  {
+    "created_at": "2022-02-17 22:01:04.390043",
+    "id": "9a111a61-91f3-4a58-8a80-f324aea8977c",
+    "img": "9a111a61-91f3-4a58-8a80-f324aea8977c.png",
+    "notes": "",
+    "question": "jest formą zdaniową typu U, a formą zdaniową typu T, p jest zdaniem fałszywym. Jakiego typu jest następująca forma zdaniowa"
+  },
+  {
+    "created_at": "2022-02-17 22:02:16.726634",
+    "id": "028b61c1-5973-4c6b-9f90-a026e5621041",
+    "img": "028b61c1-5973-4c6b-9f90-a026e5621041.png",
+    "notes": "",
+    "question": "Zaznacz relacje R, które są relacjami częściowego porządku"
+  },
+  {
+    "created_at": "2022-02-17 22:02:55.503835",
+    "id": "8bba3c7d-f8d3-4e6a-9fe1-ad5c6c44cd1f",
+    "img": "8bba3c7d-f8d3-4e6a-9fe1-ad5c6c44cd1f.png",
+    "notes": "",
+    "question": "Operator dysjunkcji (NAND) jest zdefiniowany jako. Wskaż wszystkie tautologie"
+  },
+  {
+    "created_at": "2022-02-17 22:03:30.592961",
+    "id": "742dc13d-c702-4080-964c-f802abd52bc7",
+    "img": "742dc13d-c702-4080-964c-f802abd52bc7.png",
+    "notes": "",
+    "question": "Dana jest funkcja. Które zdanie jest prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 22:04:01.791011",
+    "id": "e9f3999d-8ab8-4eb8-b5bd-4b769cf56768",
+    "img": "e9f3999d-8ab8-4eb8-b5bd-4b769cf56768.png",
+    "notes": "",
+    "question": "Wśród poniższych zdań wskaż zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-17 22:04:24.048638",
+    "id": "ff8e3e9c-aaac-455c-a248-6111d42983eb",
+    "img": "ff8e3e9c-aaac-455c-a248-6111d42983eb.png",
+    "notes": "",
+    "question": "Dane są dwie formy zdaniowe. Jakiego typu jest forma zdaniowa?"
+  },
+  {
+    "created_at": "2022-02-17 22:05:12.795381",
+    "id": "13bfc589-fcda-42e0-8d7f-5891462d879f",
+    "img": "13bfc589-fcda-42e0-8d7f-5891462d879f.png",
+    "notes": "",
+    "question": "Prawdą jest, że"
+  },
+  {
+    "created_at": "2022-02-17 22:05:50.206822",
+    "id": "f01052ed-b5dd-438f-9656-e11e0e7d2fc3",
+    "img": "f01052ed-b5dd-438f-9656-e11e0e7d2fc3.png",
+    "notes": "",
+    "question": "Rozważmy dowolną funkcję. Zaznacz prawdziwe stwierdzenia."
+  },
+  {
+    "created_at": "2022-02-17 22:06:25.847732",
+    "id": "a399881e-b1c2-4b10-aee0-084e05c1fb10",
+    "img": "a399881e-b1c2-4b10-aee0-084e05c1fb10.png",
+    "notes": "C jest poprawną odpowiedzią.",
+    "question": "Aby udowodnić, że dla dowolnego zbioru A oraz rodziny zbiorów (Ft) założenie prowadzi do wniosku trzeba"
+  },
+  {
+    "created_at": "2022-02-17 22:07:10.882290",
+    "id": "a52caa83-2e8b-4180-b4e7-76178f51db9d",
+    "img": "a52caa83-2e8b-4180-b4e7-76178f51db9d.png",
+    "notes": "",
+    "question": "Niech reR będzie liczbą rzeczywistą wymierną utożsamioną z qeQ i traktowaną jako klasa dolna przekroju Dedekinda zbioru Q. Czy q-pier?"
+  },
+  {
+    "created_at": "2022-02-17 22:11:42.234924",
+    "id": "78f9bbd5-2d56-4cc1-9871-8172bca62495",
+    "img": "78f9bbd5-2d56-4cc1-9871-8172bca62495.png",
+    "notes": "",
+    "question": "Poniższy dowód tautologii jest NIEPOPRAWNY. Z listy wybierz wszystkie niepoprawne wnioski. Przeprowadzamy dowód niewprost."
+  },
+  {
+    "created_at": "2022-02-17 22:12:48.741780",
+    "id": "875cf365-dda6-4bdb-a1e7-d518c3cd783c",
+    "img": "875cf365-dda6-4bdb-a1e7-d518c3cd783c.png",
+    "notes": "",
+    "question": "Na zbiorze X wprowadzamy relację równoważności. Poniżej wskaż wszystkie poprawnie wypisane klasy abstrakcji:"
+  },
+  {
+    "created_at": "2022-02-17 22:13:36.218304",
+    "id": "2f32d28b-075e-42ac-b6ce-4c7fe37049c1",
+    "img": "2f32d28b-075e-42ac-b6ce-4c7fe37049c1.png",
+    "notes": "",
+    "question": "Niech będzie formą zdaniową zmiennej x, której zakresem zmienności jest niepusty zbiór X. Zaznacz odpowiedź prawdziwą dla wyrażenia"
+  },
+  {
+    "created_at": "2022-02-17 22:14:24.136665",
+    "id": "96330c38-5788-47f2-aeeb-c6e83d65c967",
+    "img": "96330c38-5788-47f2-aeeb-c6e83d65c967.png",
+    "notes": "",
+    "question": "Zdefiniujmy rodziny zbiorów. Ile relacji równoważności istnieje na zbiorze?"
+  },
+  {
+    "created_at": "2022-02-17 22:15:14.043921",
+    "id": "8da16b0a-e76b-407b-b487-48290ed48256",
+    "img": "8da16b0a-e76b-407b-b487-48290ed48256.png",
+    "notes": "",
+    "question": "Zaznacz zdania prawdziwe wtedy i tylko wtedy, gdy odwzorowanie jest różnowartościowe."
+  },
+  {
+    "created_at": "2022-02-17 22:15:55.945978",
+    "id": "88f39b42-21c0-4d86-aafb-c44a7fc39c21",
+    "img": "88f39b42-21c0-4d86-aafb-c44a7fc39c21.png",
+    "notes": "",
+    "question": "Niech będzie formą zdaniową x o zakresie wartości. Wybierz zdania, dla których zachodzi równoważność."
+  },
+  {
+    "created_at": "2022-02-17 22:16:39.346730",
+    "id": "04049661-f4db-4b3b-9792-6abb08e908cf",
+    "img": "04049661-f4db-4b3b-9792-6abb08e908cf.png",
+    "notes": "",
+    "question": "Rozważmy dowolną suriekcję. Zaznacz prawdziwe stwierdzenia."
+  },
+  {
+    "created_at": "2022-02-17 22:17:15.329598",
+    "id": "3faee842-be27-4585-bb3a-5c09c9c27213",
+    "img": "3faee842-be27-4585-bb3a-5c09c9c27213.png",
+    "notes": "",
+    "question": "Rozważmy funkcję. Obraz zbioru przez funkcję f oznaczamy jako f(A), a przeciwobraz zbioru oznaczamy jako. Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-17 22:18:35.412141",
+    "id": "afa276ce-830b-4140-a3ae-3abea55ea829",
+    "img": "afa276ce-830b-4140-a3ae-3abea55ea829.png",
+    "notes": "",
+    "question": "Weźmy skończony niepusty zbiór X. Czy funkcja może być bijekcją?"
+  },
+  {
+    "created_at": "2022-02-17 22:19:09.842652",
+    "id": "dccb4977-4eb7-42b3-886a-e0903ef144f1",
+    "img": "dccb4977-4eb7-42b3-886a-e0903ef144f1.png",
+    "notes": "",
+    "question": "Jeżeli, to"
+  },
+  {
+    "created_at": "2022-02-17 22:19:34.405687",
+    "id": "bce8da81-ef3e-46e4-89bf-ec2ce31a2b6f",
+    "img": "bce8da81-ef3e-46e4-89bf-ec2ce31a2b6f.png",
+    "notes": "",
+    "question": "Niech będzie bijekcją ze zbioru Co można powiedzieć o zbiorze dla różnych liczb naturalnych n i m?"
+  },
+  {
+    "created_at": "2022-02-17 22:34:55.592802",
+    "id": "bba61ca3-29d6-4824-8009-64ccb1db169b",
+    "img": "bba61ca3-29d6-4824-8009-64ccb1db169b.png",
+    "notes": "",
+    "question": "Dane są dwie funkcje. Które zdania są prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 22:36:05.269773",
+    "id": "74ea2d68-e0e5-4199-9fff-ae91a891490e",
+    "img": "74ea2d68-e0e5-4199-9fff-ae91a891490e.png",
+    "notes": "",
+    "question": "Rozważmy formę zdaniową określoną dla x i y będących liczbami naturalnymi. Z poniższej listy wybierz wszystkie zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-17 22:37:13.368496",
+    "id": "7f29a0a6-4e2f-4b91-a221-9d80d045e79b",
+    "img": "7f29a0a6-4e2f-4b91-a221-9d80d045e79b.png",
+    "notes": "",
+    "question": "Ile istnieje różnych relacji częściowego porządku na zbiorze trzyelementowym X?"
+  },
+  {
+    "created_at": "2022-02-17 22:38:00.912677",
+    "id": "ebc452c7-dc76-4b22-9c06-5b5a32b919cb",
+    "img": "ebc452c7-dc76-4b22-9c06-5b5a32b919cb.png",
+    "notes": "",
+    "question": "Wskaż tautologie."
+  },
+  {
+    "created_at": "2022-02-17 22:38:25.370132",
+    "id": "474c1612-5d08-4776-aed5-2d4b41d9a19c",
+    "img": "474c1612-5d08-4776-aed5-2d4b41d9a19c.png",
+    "notes": "",
+    "question": "Czy relacja może być jednocześnie symetryczna, antysymetryczna i zwrotna?"
+  },
+  {
+    "created_at": "2022-02-17 22:38:57.386227",
+    "id": "24348388-7e05-4d27-bcdc-5dec8c81de68",
+    "img": "24348388-7e05-4d27-bcdc-5dec8c81de68.png",
+    "notes": "",
+    "question": "Formuła zbudowana ze zmiennych zdaniowych wyłącznie za pomocą spójnika jest tautologią wtedy i tylko wtedy, gdy"
+  },
+  {
+    "created_at": "2022-02-17 22:39:39.487134",
+    "id": "cf51f752-aea1-4790-b57b-6911e2ec2454",
+    "img": "cf51f752-aea1-4790-b57b-6911e2ec2454.png",
+    "notes": "",
+    "question": "Niech (An) i (Bn) będą indeksowanymi rodzinami zbiorami. Poniżej znajduje się poprawny lub błędny dowód formuły. Dowód:"
+  },
+  {
+    "created_at": "2022-02-17 22:40:21.273720",
+    "id": "19362324-337c-4177-979d-1d61fcb8128c",
+    "img": "19362324-337c-4177-979d-1d61fcb8128c.png",
+    "notes": "",
+    "question": "Niech formy zdaniowe będą określone dla x będących liczbami rzeczywistymi. Wskaż wszystkie zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-17 22:41:22.611393",
+    "id": "83ad8b99-5752-4350-96f6-8ef7d0bb1799",
+    "img": "83ad8b99-5752-4350-96f6-8ef7d0bb1799.png",
+    "notes": "",
+    "question": "Niech A i B będą zbiorami. Poniżej znajduje się poprawny lub błędny dowód formuły. Dowód:"
+  },
+  {
+    "created_at": "2022-02-17 22:42:13.635027",
+    "id": "04934f58-472d-45c4-86f2-bad9cdbf1ea6",
+    "img": "04934f58-472d-45c4-86f2-bad9cdbf1ea6.png",
+    "notes": "",
+    "question": "Niech |X| = 2 i |Y| = 3. Podaj liczbę suriekcji (f. \"na\") (0 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-17 22:43:10.834988",
+    "id": "3c3cd1f3-6dac-4cd8-b5f3-584b4d140fc2",
+    "img": "3c3cd1f3-6dac-4cd8-b5f3-584b4d140fc2.png",
+    "notes": "",
+    "question": "Relacje R i S na zbiorze X zadane są przez przestrzenie ilorazowe. Czy prawdą są stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-17 22:44:06.722416",
+    "id": "fbad2a66-1fb9-401a-8a32-af219608b784",
+    "img": "fbad2a66-1fb9-401a-8a32-af219608b784.png",
+    "notes": "",
+    "question": "Relacje R i S na zbiorze X zadane są przez przestrzenie ilorazowe. Czy prawdą są stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-17 22:45:26.374714",
+    "id": "845658d0-6e90-4a38-8260-9caaf880bc30",
+    "img": "845658d0-6e90-4a38-8260-9caaf880bc30.png",
+    "notes": "",
+    "question": "Jakie są elementy najmniejszy i największy w zbiorze liczb całkowitych z relacją porządku?"
+  },
+  {
+    "created_at": "2022-02-17 22:46:32.432793",
+    "id": "687b0a35-f536-4f3e-9ecf-524baa898086",
+    "img": "687b0a35-f536-4f3e-9ecf-524baa898086.png",
+    "notes": "",
+    "question": "Czy w ramach konstrukcji liczb wymiernych jako klas abstrakcji w istnieje niezerowa liczba (klas abstrakcji), która jest jednocześnie relacją równoważności na Z*?"
+  },
+  {
+    "created_at": "2022-02-17 22:47:45.064643",
+    "id": "453d6477-ae4b-4b10-80ad-585d7940336b",
+    "img": "453d6477-ae4b-4b10-80ad-585d7940336b.png",
+    "notes": "",
+    "question": "Czy para form zdaniowych gdy stanowi:"
+  },
+  {
+    "created_at": "2022-02-17 22:48:19.412048",
+    "id": "493fbb11-24fb-4d18-be97-ba44bc54e2d2",
+    "img": "493fbb11-24fb-4d18-be97-ba44bc54e2d2.png",
+    "notes": "",
+    "question": "Czy relacja równoważności na zbiorze wieloelementowym może być jednocześnie relacją częściowego porządku?"
+  },
+  {
+    "created_at": "2022-02-17 22:49:30.081724",
+    "id": "ee2d7889-2436-4755-831f-38feab208910",
+    "img": "ee2d7889-2436-4755-831f-38feab208910.png",
+    "notes": "",
+    "question": "Dane są funkcje takie, że oraz zbiory. Prawdą jest, że:"
+  },
+  {
+    "created_at": "2022-02-17 22:50:19.066135",
+    "id": "888a9446-c41e-4f26-a735-844c5829d0ae",
+    "img": "888a9446-c41e-4f26-a735-844c5829d0ae.png",
+    "notes": "",
+    "question": "Weźmy dowolne rodziny zbiorów (Ft) i (Gt). Czy zachodzą dla nich następujące prawa?"
+  },
+  {
+    "created_at": "2022-02-17 22:50:51.094623",
+    "id": "f4bb7c54-ba96-4153-a108-90fbc520a927",
+    "img": "f4bb7c54-ba96-4153-a108-90fbc520a927.png",
+    "notes": "",
+    "question": "Czy istnieje niepusty zbiór oraz zdefiniowana na nim relacja równoważności, która jednocześnie jest relacją częściowego porządku?"
+  },
+  {
+    "created_at": "2022-02-17 22:52:04.827656",
+    "id": "ae9118bf-620f-447a-b1f6-27eee0dd975f",
+    "img": "ae9118bf-620f-447a-b1f6-27eee0dd975f.png",
+    "notes": "",
+    "question": "Dane są dwie funkcje. Które zdania są prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 22:52:31.949404",
+    "id": "b00d0188-7440-427d-be79-8f8f365d8f2c",
+    "img": "b00d0188-7440-427d-be79-8f8f365d8f2c.png",
+    "notes": "",
+    "question": "W dowodzie tautologii brakuje wniosku oznaczonego jako (5). Z listy wybierz wszystkie możliwości uzupełnienia (5) które pozwalają uzyskać pełny i poprawny dowód. Przeprowadzamy dowód niewprost."
+  },
+  {
+    "created_at": "2022-02-17 22:54:03.458987",
+    "id": "444fa2fd-0f0f-4fde-a05e-b412b123c3c4",
+    "img": "444fa2fd-0f0f-4fde-a05e-b412b123c3c4.png",
+    "notes": "",
+    "question": "Zaznacz relacje R, które są relacjami częściowego porządku."
+  },
+  {
+    "created_at": "2022-02-17 22:54:39.378733",
+    "id": "e4f452dd-1064-4771-958e-4c532bd233ff",
+    "img": "e4f452dd-1064-4771-958e-4c532bd233ff.png",
+    "notes": "",
+    "question": "Na zbiorze liczb naturalnych parzystych 2N określono relację aRb jest podzielne przez 6. Wskaż zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-17 22:55:14.490907",
+    "id": "39ea81f3-aa98-43d2-8fe3-95b43f9a393c",
+    "img": "39ea81f3-aa98-43d2-8fe3-95b43f9a393c.png",
+    "notes": "",
+    "question": "Niech |X| = 3 i |Y| = 2. Podaj liczbę funkcji (0 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-17 22:55:50.873539",
+    "id": "c5fad273-da2f-4a15-8b82-abe9b0aa2755",
+    "img": "c5fad273-da2f-4a15-8b82-abe9b0aa2755.png",
+    "notes": "",
+    "question": "Iniekcją jest funkcja f, taka że f(x) = sin(x) oraz"
+  },
+  {
+    "created_at": "2022-02-17 22:56:59.682080",
+    "id": "956ccfee-56b2-4b70-8add-2d9d72b71cac",
+    "img": "956ccfee-56b2-4b70-8add-2d9d72b71cac.png",
+    "notes": "",
+    "question": "Relacja taka, że xRy jest (zaznacz wszystkie prawidłowe odpowiedzi)"
+  },
+  {
+    "created_at": "2022-02-17 22:59:53.705579",
+    "id": "d927e8da-32d2-4a25-8177-d47b6e8499c9",
+    "img": "d927e8da-32d2-4a25-8177-d47b6e8499c9.png",
+    "notes": "",
+    "question": "W zbiorze liczb wymiernych ze zwykłym porządkiem określamy zbiór. Prawdą jest, że"
+  },
+  {
+    "created_at": "2022-02-17 23:00:51.931724",
+    "id": "5df6916b-c77a-4475-957c-65b8f2a79e67",
+    "img": "5df6916b-c77a-4475-957c-65b8f2a79e67.png",
+    "notes": "",
+    "question": "Wśród poniższych zdań wskaż zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-17 23:01:48.197882",
+    "id": "4923dd52-aeea-449c-b3da-d5a1403d6003",
+    "img": "4923dd52-aeea-449c-b3da-d5a1403d6003.png",
+    "notes": "",
+    "question": "Niech (X, R) będzie zbiorem liniowo uporządkowanym. Zaznacz wzory, które są zawsze poprawne."
+  },
+  {
+    "created_at": "2022-02-17 23:02:40.212067",
+    "id": "9c170e8f-f47a-4a76-95b8-3bcbb8e6f6ea",
+    "img": "9c170e8f-f47a-4a76-95b8-3bcbb8e6f6ea.png",
+    "notes": "",
+    "question": "Niech A, B, C będą zbiorami. Zdanie oznacza, że (wskaż wszystkie prawdziwe):"
+  },
+  {
+    "created_at": "2022-02-17 23:03:26.373458",
+    "id": "0ebd3423-2d56-4158-a391-0b8a601b1d1d",
+    "img": "0ebd3423-2d56-4158-a391-0b8a601b1d1d.png",
+    "notes": "",
+    "question": "Ile różnych relacji liniowego porządku można wprowadzić na zbiorze trzyelementowym X?"
+  },
+  {
+    "created_at": "2022-02-17 23:04:14.857558",
+    "id": "f2274a8b-3322-447e-b4e7-b4824edb082b",
+    "img": "f2274a8b-3322-447e-b4e7-b4824edb082b.png",
+    "notes": "",
+    "question": "Relacja taka, że xRy jest (zaznacz wszystkie prawdziwe odpowiedzi)"
+  },
+  {
+    "created_at": "2022-02-17 23:05:13.830224",
+    "id": "6b1ca9dc-5c1a-49cd-beea-d09d7f69be79",
+    "img": "6b1ca9dc-5c1a-49cd-beea-d09d7f69be79.png",
+    "notes": "",
+    "question": "Dane są dwie funkcje. Dla jakich funkcji złożenie gof jest iniekcją?"
+  },
+  {
+    "created_at": "2022-02-17 23:06:09.200427",
+    "id": "1c521e03-5663-4b23-acf7-f22e2d556b27",
+    "img": "1c521e03-5663-4b23-acf7-f22e2d556b27.png",
+    "notes": "",
+    "question": "Weźmy skończony niepusty zbiór X. Czy funkcja może być iniekcją?"
+  },
+  {
+    "created_at": "2022-02-17 23:06:43.316113",
+    "id": "168be392-1634-4ead-8041-a794389054ec",
+    "img": "168be392-1634-4ead-8041-a794389054ec.png",
+    "notes": "",
+    "question": "Rozważmy dowolną iniekcję. Zaznacz prawdziwe stwierdzenia."
+  },
+  {
+    "created_at": "2022-02-17 23:07:07.373709",
+    "id": "dbd50575-5ca8-4621-82e2-5b93da086f93",
+    "img": "dbd50575-5ca8-4621-82e2-5b93da086f93.png",
+    "notes": "",
+    "question": "Pewna relacja R na zbiorze spełnia warunek"
+  },
+  {
+    "created_at": "2022-02-17 23:07:40.295991",
+    "id": "e6856e68-2554-4678-8a9e-8b5e525d5ff5",
+    "img": "e6856e68-2554-4678-8a9e-8b5e525d5ff5.png",
+    "notes": "",
+    "question": "Ile różnych relacji równoważności można wprowadzić na zbiorze trzyelementowym?"
+  },
+  {
+    "created_at": "2022-02-17 23:08:12.005182",
+    "id": "8cbf32a7-5712-4217-a54e-0b2631be8e4e",
+    "img": "8cbf32a7-5712-4217-a54e-0b2631be8e4e.png",
+    "notes": "",
+    "question": "Wśród poniższych zdań wskaż tautologie."
+  },
+  {
+    "created_at": "2022-02-17 23:09:06.037156",
+    "id": "ace246ae-f70b-4ee0-82f5-74d7e65bdb3d",
+    "img": "ace246ae-f70b-4ee0-82f5-74d7e65bdb3d.png",
+    "notes": "",
+    "question": "Wskaż zdania równoważne do"
+  },
+  {
+    "created_at": "2022-02-17 23:09:33.391437",
+    "id": "f8066e2a-f667-44e9-92dd-046a04b1ddca",
+    "img": "f8066e2a-f667-44e9-92dd-046a04b1ddca.png",
+    "notes": "",
+    "question": "Rozważmy dwie liczby całkowite, zdefiniowane standardowo jako klasy abstrakcji na. Zaznacz prawdziwe stwierdzenia o nich i ich iloczynie."
+  },
+  {
+    "created_at": "2022-02-17 23:10:22.298257",
+    "id": "5af243f8-4d5b-43c2-a1b7-85ff2ba4e010",
+    "img": "5af243f8-4d5b-43c2-a1b7-85ff2ba4e010.png",
+    "notes": "",
+    "question": "Niech |X| = 3 i |Y| = 2. Podaj liczbę iniekcji (f. różnowartościowych) (0 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-17 23:11:00.950091",
+    "id": "24aacfc2-efda-4e1e-a01d-bc73e2c04c96",
+    "img": "24aacfc2-efda-4e1e-a01d-bc73e2c04c96.png",
+    "notes": "",
+    "question": "to fragment dowodu tożsamości"
+  },
+  {
+    "created_at": "2022-02-17 23:11:32.345927",
+    "id": "dcbb43ac-3118-41ea-9e64-654b06757dfa",
+    "img": "dcbb43ac-3118-41ea-9e64-654b06757dfa.png",
+    "notes": "",
+    "question": "Aby udowodnić, że dla dowolnego zbioru A oraz rodziny zbiorów (Ft) założenie prowadzi do wniosku trzeba"
+  },
+  {
+    "created_at": "2022-02-17 23:12:15.102326",
+    "id": "5425e313-89ff-4970-9e23-a4c2d91d02ce",
+    "img": "5425e313-89ff-4970-9e23-a4c2d91d02ce.png",
+    "notes": "",
+    "question": "Zdefiniujmy rodziny zbiorów. Ile relacji równoważności istnieje na zbiorze?"
+  },
+  {
+    "created_at": "2022-02-17 23:12:56.749504",
+    "id": "9d2c81cb-3ba3-42c6-bf06-d0f75004dede",
+    "img": "9d2c81cb-3ba3-42c6-bf06-d0f75004dede.png",
+    "notes": "",
+    "question": "Pewna relacja R na zbiorze jest symetryczna i posiada ponadto właściwość. Czy da się pokazać, że jest ona również przechodnia?"
+  },
+  {
+    "created_at": "2022-02-17 23:13:53.680203",
+    "id": "e78cc7e9-31af-48ec-9281-f20741555efc",
+    "img": "e78cc7e9-31af-48ec-9281-f20741555efc.png",
+    "notes": "Żadna z tych odpowiedzi nie jest prawidłowa. Prawidłową odpowiedzią jest 13.",
+    "question": "Ile różnych relacji częściowego porządku które nie są relacjami liniowego porządku można wprowadzić na zbiorze trzyelementowym?"
+  },
+  {
+    "created_at": "2022-02-17 23:15:07.884260",
+    "id": "10ff7270-673c-43ce-85f8-70a7a2501f9a",
+    "img": "10ff7270-673c-43ce-85f8-70a7a2501f9a.png",
+    "notes": "",
+    "question": "Niech funkcja f będzie bijekcją, a g funkcją. Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-17 23:15:59.303148",
+    "id": "f72e01a3-4777-40b1-b1a8-a1db0c53443b",
+    "img": "f72e01a3-4777-40b1-b1a8-a1db0c53443b.png",
+    "notes": "",
+    "question": "Zaznacz wyrażenia, które po podstawieniu w miejsce ?, zamienią formułę w tautologię."
+  },
+  {
+    "created_at": "2022-02-17 23:16:46.053053",
+    "id": "9426f787-03a0-47cb-9610-69f03a60618a",
+    "img": "9426f787-03a0-47cb-9610-69f03a60618a.png",
+    "notes": "",
+    "question": "Zaznacz wyrażenia, które po podstawieniu w miejsce ?, zamienią formułę w tautologię."
+  },
+  {
+    "created_at": "2022-02-17 23:17:02.713990",
+    "id": "3d702447-b4d6-4b8f-b42f-30dcb9c70d25",
+    "img": "3d702447-b4d6-4b8f-b42f-30dcb9c70d25.png",
+    "notes": "",
+    "question": "Niech będzie formą zdaniową zmiennej x, której zakresem zmienności jest niepusty zbiór X. Zaznacz odpowiedź prawdziwą dla wyrażenia"
+  },
+  {
+    "created_at": "2022-02-17 23:18:07.726856",
+    "id": "a763f60b-30d7-4674-8635-60e4436d11ea",
+    "img": "a763f60b-30d7-4674-8635-60e4436d11ea.png",
+    "notes": "",
+    "question": "Które z propozycji są poprawnymi kontrprzykładami na to, że wynika z?"
+  },
+  {
+    "created_at": "2022-02-17 23:18:33.673842",
+    "id": "2c600d8c-8c14-4686-87ea-504585c30ed0",
+    "img": "2c600d8c-8c14-4686-87ea-504585c30ed0.png",
+    "notes": "",
+    "question": "Zaznacz zdania, które zawsze wynikają ze zdania."
+  },
+  {
+    "created_at": "2022-02-17 23:19:06.938345",
+    "id": "c3906718-2587-46b3-ac37-24361cc5e0d5",
+    "img": "c3906718-2587-46b3-ac37-24361cc5e0d5.png",
+    "notes": "",
+    "question": "Dla zbioru częściowo uporządkowanego, podaj liczbę majorant rodziny zbiorów (0 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-17 23:19:42.524617",
+    "id": "796d4dc4-7718-4a24-925b-40342eaf59d8",
+    "img": "796d4dc4-7718-4a24-925b-40342eaf59d8.png",
+    "notes": "",
+    "question": "Niech taką, że f(x) = mod(x^2,3), gdzie mod(a,b) oznacza resztę z dzielenia liczby a przez b. Zaznacz zdanie prawdziwe o f."
+  },
+  {
+    "created_at": "2022-02-17 23:20:57.186797",
+    "id": "7e815055-92a1-4f6a-9308-1ff873e1a085",
+    "img": "7e815055-92a1-4f6a-9308-1ff873e1a085.png",
+    "notes": "",
+    "question": "Na niepustym zbiorze X są zdefiniowane dwie różne relację częściowego porządku R i S. Które z poniższych stwierdzeń są zawsze prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 23:21:43.726508",
+    "id": "f32307b3-410c-442f-8b3e-065704955262",
+    "img": "f32307b3-410c-442f-8b3e-065704955262.png",
+    "notes": "",
+    "question": "Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja."
+  },
+  {
+    "created_at": "2022-02-17 23:22:21.970458",
+    "id": "093e23c4-1685-47b0-a707-c57b2d6c3f50",
+    "img": "093e23c4-1685-47b0-a707-c57b2d6c3f50.png",
+    "notes": "",
+    "question": "Niech reR będzie liczbą rzeczywistą wymierną utożsamioną z qeQ i traktowaną jako klasa dolna przekroju Dedekinda zbioru Q. Czy qer w konstrukcji Dedekinda?"
+  },
+  {
+    "created_at": "2022-02-17 23:23:22.339504",
+    "id": "5c504632-54f8-483a-99e4-e69ba207399b",
+    "img": "5c504632-54f8-483a-99e4-e69ba207399b.png",
+    "notes": "",
+    "question": "Niech R będzie relacją na zbiorze zdefiniowaną w następujący sposób: Wskaż prawdziwe zdania."
+  },
+  {
+    "created_at": "2022-02-17 23:25:11.361833",
+    "id": "bce525fe-c3d6-4928-879f-7d224f2b5b0c",
+    "img": "bce525fe-c3d6-4928-879f-7d224f2b5b0c.png",
+    "notes": "",
+    "question": "Niech A i B będą liczbami rzeczywistymi traktowanymi jako klasy dolne przekrojów Dedekinda zbioru Q. Wówczas A n B"
+  },
+  {
+    "created_at": "2022-02-17 23:26:25.300553",
+    "id": "744ccdac-bffa-4866-8fab-5f7136852dac",
+    "img": "744ccdac-bffa-4866-8fab-5f7136852dac.png",
+    "notes": "",
+    "question": "Niech A i B będą dowolnymi zbiorami. Wyrażenie |A| oznacza moc zbioru. Zaznacz zawsze prawdziwe zdania."
+  },
+  {
+    "created_at": "2022-02-17 23:27:12.843727",
+    "id": "05be2688-520f-4687-9506-9cd40a9abb50",
+    "img": "05be2688-520f-4687-9506-9cd40a9abb50.png",
+    "notes": "",
+    "question": "Dane są rodziny relacji {Rn}, {Sn}. Które zdania są prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 23:28:02.045495",
+    "id": "94cc56be-44c1-44e6-a541-419f40b08441",
+    "img": "94cc56be-44c1-44e6-a541-419f40b08441.png",
+    "notes": "",
+    "question": "Czy istnieje niepusty zbiór oraz zdefiniowana na nim relacja równoważności, która jednocześnie jest relacją częściowego porządku?"
+  },
+  {
+    "created_at": "2022-02-17 23:28:45.276660",
+    "id": "e94dd3ea-4bbb-4e79-87f0-267fe21a355c",
+    "img": "e94dd3ea-4bbb-4e79-87f0-267fe21a355c.png",
+    "notes": "",
+    "question": "to fragment dowodu tożsamości"
+  },
+  {
+    "created_at": "2022-02-17 23:29:18.799236",
+    "id": "5ddc1d1b-e5a5-40e7-b67e-03d06e1426b7",
+    "img": "5ddc1d1b-e5a5-40e7-b67e-03d06e1426b7.png",
+    "notes": "",
+    "question": "Ile istnieje iniekcji ze zbioru R w zbiór Q?"
+  },
+  {
+    "created_at": "2022-02-17 23:29:51.766085",
+    "id": "5b5861a7-efba-411e-8ac9-260a4e019959",
+    "img": "5b5861a7-efba-411e-8ac9-260a4e019959.png",
+    "notes": "",
+    "question": "Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja."
+  },
+  {
+    "created_at": "2022-02-17 23:30:29.020280",
+    "id": "32cb2745-1c53-4a99-b5b6-6bd78c036878",
+    "img": "32cb2745-1c53-4a99-b5b6-6bd78c036878.png",
+    "notes": "",
+    "question": "Z poniższych zdań wybierz te właściwe."
+  },
+  {
+    "created_at": "2022-02-17 23:30:49.881171",
+    "id": "3402832a-339b-4391-b3f3-40905ad4a9db",
+    "img": "3402832a-339b-4391-b3f3-40905ad4a9db.png",
+    "notes": "",
+    "question": "Rozważmy funkcję. Obraz zbioru przez funkcję f oznaczamy jako f(A), a przeciwobraz zbioru oznaczamy jako. Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-17 23:31:54.213749",
+    "id": "198e69de-221e-45e1-b7be-3b07aa63bcb1",
+    "img": "198e69de-221e-45e1-b7be-3b07aa63bcb1.png",
+    "notes": "",
+    "question": "Czy para form zdaniowych gdy stanowi:"
+  },
+  {
+    "created_at": "2022-02-17 23:32:46.371440",
+    "id": "d09f9340-b553-4056-a784-1190c8460c4a",
+    "img": "d09f9340-b553-4056-a784-1190c8460c4a.png",
+    "notes": "",
+    "question": "Dana jest funkcja zdefiniowana w następujący sposób: Dana jest też rodzina odcinków. Które ze zdań jest prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 23:33:53.545246",
+    "id": "8ec64133-2779-4cd9-a0db-0630de6f3d72",
+    "img": "8ec64133-2779-4cd9-a0db-0630de6f3d72.png",
+    "notes": "",
+    "question": "Wskaż tautologie:"
+  },
+  {
+    "created_at": "2022-02-17 23:35:01.033573",
+    "id": "91160e5c-4980-4db2-ba39-c5cd1d58e85a",
+    "img": "91160e5c-4980-4db2-ba39-c5cd1d58e85a.png",
+    "notes": "",
+    "question": "Dane są dwie formy zdaniowe. Jakiego typu jest forma zdaniowa?"
+  },
+  {
+    "created_at": "2022-02-17 23:35:40.179217",
+    "id": "625c49f9-59c4-481d-b915-530e3e66dcce",
+    "img": "625c49f9-59c4-481d-b915-530e3e66dcce.png",
+    "notes": "",
+    "question": "Dla zbioru częściowo uporządkowanego (P(N), C), podać supremum rodziny zbiorów {{1, 2, 3}} (zbiór zawrzeć w nawiasach klamrowych, elementy oddzielić przecinkiem, nie wpisywać spacji) (0 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-17 23:36:41.199203",
+    "id": "ad8b574b-a8ac-4815-8d44-625658193a72",
+    "img": "ad8b574b-a8ac-4815-8d44-625658193a72.png",
+    "notes": "",
+    "question": "Zaznacz operacje, które są przemienne."
+  },
+  {
+    "created_at": "2022-02-17 23:37:55.643297",
+    "id": "7312c0fc-b119-4b39-8211-a3c32439372e",
+    "img": "7312c0fc-b119-4b39-8211-a3c32439372e.png",
+    "notes": "",
+    "question": "Rozważmy równość. Czy prawdą jest, że:"
+  },
+  {
+    "created_at": "2022-02-17 23:38:47.829039",
+    "id": "dc4e46f8-7408-4688-bc70-efdff624d841",
+    "img": "dc4e46f8-7408-4688-bc70-efdff624d841.png",
+    "notes": "",
+    "question": "Rozważmy niepuste zbiory A,B,C. Czy prawdą jest, że:"
+  },
+  {
+    "created_at": "2022-02-17 23:39:17.354534",
+    "id": "5f731e74-b06b-4fb5-8eea-bb520dbd9a59",
+    "img": "5f731e74-b06b-4fb5-8eea-bb520dbd9a59.png",
+    "notes": "",
+    "question": "Rozważmy niepuste zbiory A,B,C. Czy prawdą jest, że:"
+  },
+  {
+    "created_at": "2022-02-17 23:40:22.413264",
+    "id": "c8b10863-ad6f-428e-abfa-99026bac8f5f",
+    "img": "c8b10863-ad6f-428e-abfa-99026bac8f5f.png",
+    "notes": "",
+    "question": "Zaznacz warunki, które gwarantują, że"
+  },
+  {
+    "created_at": "2022-02-17 23:42:07.089898",
+    "id": "6d99a923-e4e6-4989-a2a5-de744c2dd0e4",
+    "img": "6d99a923-e4e6-4989-a2a5-de744c2dd0e4.png",
+    "notes": "Pytanie nieznane.",
+    "question": "Uszereguj podane zbiory tak, aby dla dowolnego wyboru zbiorów A,B,C każdy zbiór był podzbiorem zbioru nad nim. Ustawić"
+  },
+  {
+    "created_at": "2022-02-17 23:43:08.448599",
+    "id": "32067372-dcf2-4491-8458-1f328d549a61",
+    "img": "32067372-dcf2-4491-8458-1f328d549a61.png",
+    "notes": "",
+    "question": "Zdefiniujmy rodziny zbiorów At, dla teT. Ile relacji równoważności istnieje na zbiorze?"
+  },
+  {
+    "created_at": "2022-02-17 23:44:24.563123",
+    "id": "9843efca-b05d-4445-8741-2db0a4fa285c",
+    "img": "9843efca-b05d-4445-8741-2db0a4fa285c.png",
+    "notes": "",
+    "question": "Dana jest funkcja F zdefiniowana następująco: Które zdania są prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 23:45:16.106866",
+    "id": "f79a20f5-b498-49a7-a3ef-d71ce1fcf544",
+    "img": "f79a20f5-b498-49a7-a3ef-d71ce1fcf544.png",
+    "notes": "",
+    "question": "Wskaż które z poniższych zbiorów stanowią zbiór potęgowy jakiegoś zbioru:"
+  },
+  {
+    "created_at": "2022-02-17 23:46:30.570072",
+    "id": "34c1602a-cc98-44b0-a4b5-c6a1bb6d1ae0",
+    "img": "34c1602a-cc98-44b0-a4b5-c6a1bb6d1ae0.png",
+    "notes": "",
+    "question": "Niech R będzie relacją na zbiorze zdefiniowaną w następujący sposób: Wskaż prawdziwe zdania."
+  },
+  {
+    "created_at": "2022-02-17 23:47:36.969427",
+    "id": "9cf8a136-3c5a-4abc-be93-3ea0126b4c15",
+    "img": "9cf8a136-3c5a-4abc-be93-3ea0126b4c15.png",
+    "notes": "",
+    "question": "Spośród poniższych zdań wybierz stwierdzenia prawdziwe."
+  },
+  {
+    "created_at": "2022-02-17 23:50:58.688267",
+    "id": "2928163f-959e-4793-b139-e3cbc1d830df",
+    "img": "2928163f-959e-4793-b139-e3cbc1d830df.png",
+    "notes": "",
+    "question": "Niech f będzie dane wzorem. Które z poniższych zdań są prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-17 23:53:34.033416",
+    "id": "a240d943-dd02-4d45-a8c9-2dc7293fa571",
+    "img": "a240d943-dd02-4d45-a8c9-2dc7293fa571.png",
+    "notes": "",
+    "question": "Zaznacz równania równoważne zdaniu."
+  },
+  {
+    "created_at": "2022-02-17 23:54:04.877109",
+    "id": "55083a3c-8a12-47da-9040-e4a3126b0d61",
+    "img": "55083a3c-8a12-47da-9040-e4a3126b0d61.png",
+    "notes": "",
+    "question": "Ile relacji zwrotnych można utworzyć na zbiorze trójelementowym?"
+  },
+  {
+    "created_at": "2022-02-17 23:54:39.570729",
+    "id": "baef2458-fbf7-4759-8ddd-46ee3d37775a",
+    "img": "baef2458-fbf7-4759-8ddd-46ee3d37775a.png",
+    "notes": "",
+    "question": "Rozważmy dowolną funkcję postaci f ze zbioru, która jest injekcją, ale nie surjekcją. Czy prawdą jest, że:"
+  },
+  {
+    "created_at": "2022-02-17 23:55:36.047128",
+    "id": "956a939c-9b12-4ab9-9dfe-a70636e0248c",
+    "img": "956a939c-9b12-4ab9-9dfe-a70636e0248c.png",
+    "notes": "",
+    "question": "Niech p i q oznaczają zdania logiczne. Wskaż wszystkie tautologie."
+  },
+  {
+    "created_at": "2022-02-17 23:55:58.773816",
+    "id": "902b258e-5620-4e31-9ef3-39677260e6d9",
+    "img": "902b258e-5620-4e31-9ef3-39677260e6d9.png",
+    "notes": "",
+    "question": "Funkcja f jest suriekcją, jeśli:"
+  },
+  {
+    "created_at": "2022-02-17 23:56:24.699514",
+    "id": "b2c6a3e3-eca5-4fac-b20c-cd91e6786b3a",
+    "img": "b2c6a3e3-eca5-4fac-b20c-cd91e6786b3a.png",
+    "notes": "",
+    "question": "Na zbiorze liczb naturalnych dodatnich określamy relację częściowego porządku m <= n = m dzieli n. Supremum zbioru {1,2,3} względem zadanej relacji to:"
+  },
+  {
+    "created_at": "2022-02-17 23:58:10.211224",
+    "id": "c4aef0f3-69e3-419e-9dd6-1c9e0bba2a06",
+    "img": "c4aef0f3-69e3-419e-9dd6-1c9e0bba2a06.png",
+    "notes": "",
+    "question": "Niech będą formami zdaniowymi. Zaznacz wszystkie odpowiedzi prawdziwe dla wyrażenia"
+  },
+  {
+    "created_at": "2022-02-17 23:58:59.157887",
+    "id": "38cf2d21-fd5e-4611-a9d1-1c1e724fa341",
+    "img": "38cf2d21-fd5e-4611-a9d1-1c1e724fa341.png",
+    "notes": "",
+    "question": "Definiujemy funkcje f. Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-17 23:59:21.704409",
+    "id": "c5f65f1e-b431-4eac-8bc9-4e8955407ec6",
+    "img": "c5f65f1e-b431-4eac-8bc9-4e8955407ec6.png",
+    "notes": "",
+    "question": "Rozważmy funkcję f. Obraz zbioru A przez funkcję f oznaczamy jako f(A). Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-18 00:00:08.618046",
+    "id": "c3cec97b-37b0-4c46-9232-47663c602409",
+    "img": "c3cec97b-37b0-4c46-9232-47663c602409.png",
+    "notes": "",
+    "question": "Niech A i B będą dowolnymi zbiorami. Zaznacz prawdziwe zdania."
+  },
+  {
+    "created_at": "2022-02-18 00:01:21.737441",
+    "id": "93ff2e0f-fb7a-4811-9392-f72909ba91ec",
+    "img": "93ff2e0f-fb7a-4811-9392-f72909ba91ec.png",
+    "notes": "",
+    "question": "Zaznacz własności relacji R określonej na zbiorze Z. Symbol | oznacza podzielność."
+  },
+  {
+    "created_at": "2022-02-18 00:03:23.092633",
+    "id": "872ef14b-c006-4469-a11a-e09608a815cb",
+    "img": "872ef14b-c006-4469-a11a-e09608a815cb.png",
+    "notes": "",
+    "question": "Dla zbioru częściowo uporządkowanego ({1,2,...,10},|), gdzie | oznacza podzielność, znaleźć supremum zbioru {2,3} (-1 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-18 00:05:15.708030",
+    "id": "24e8b5e4-dbcc-4f92-ada7-648d9a9a14e2",
+    "img": "24e8b5e4-dbcc-4f92-ada7-648d9a9a14e2.png",
+    "notes": "",
+    "question": "Na zbiorze mamy daną pewną relację równoważności R. Jeżeli zdefiniujemy teraz relację S na zbiorze taką, że [a]SA, to ona"
+  },
+  {
+    "created_at": "2022-02-18 00:06:22.484481",
+    "id": "a6f43bd2-a6d4-42bf-af98-cbbe7b745784",
+    "img": "a6f43bd2-a6d4-42bf-af98-cbbe7b745784.png",
+    "notes": "",
+    "question": "Niech będą formami zdaniowymi z argumentem x przyjmującym wartości należące do niepustego uniwersum. Wskaż wszystkie tautologie."
+  },
+  {
+    "created_at": "2022-02-18 00:07:03.382020",
+    "id": "22e34b8e-0950-4a7b-aee0-ae99ce9c3df6",
+    "img": "22e34b8e-0950-4a7b-aee0-ae99ce9c3df6.png",
+    "notes": "",
+    "question": "Niech |X| = 3 i |Y| = 2. Podaj liczbę suriekcji (f. \"na\") (0 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-18 00:08:22.471946",
+    "id": "f63e614a-776d-4c7d-b7e1-6558ef85f572",
+    "img": "f63e614a-776d-4c7d-b7e1-6558ef85f572.png",
+    "notes": "",
+    "question": "Zaznacz operacje, które są przemienne."
+  },
+  {
+    "created_at": "2022-02-18 00:08:43.108428",
+    "id": "79cbd8bb-0d68-4f93-a01f-40ccaadd55ae",
+    "img": "79cbd8bb-0d68-4f93-a01f-40ccaadd55ae.png",
+    "notes": "",
+    "question": "Niech będzie bijekcją ze zbioru x w zbiór ZcX oraz V = X \\ Z. Co można powiedzieć o zbiorze A dla różnych liczb naturalnym n i m?"
+  },
+  {
+    "created_at": "2022-02-18 00:09:45.195989",
+    "id": "c57a2fad-90bb-411b-874e-9d99c37785d4",
+    "img": "c57a2fad-90bb-411b-874e-9d99c37785d4.png",
+    "notes": "",
+    "question": "R jest relacją częściowego porządku na XxX. Wtedy zawsze zachodzi:"
+  },
+  {
+    "created_at": "2022-02-18 00:10:59.049044",
+    "id": "b366a38d-ea19-49e5-8954-fcb21c25d236",
+    "img": "b366a38d-ea19-49e5-8954-fcb21c25d236.png",
+    "notes": "",
+    "question": "Wskaż które z poniższych zbiorów stanowią zbiór potęgowy jakiegoś zbioru:"
+  },
+  {
+    "created_at": "2022-02-18 00:12:55.693810",
+    "id": "6b1935d1-6481-43ae-a3ce-91783c5ec959",
+    "img": "6b1935d1-6481-43ae-a3ce-91783c5ec959.png",
+    "notes": "",
+    "question": "Niech będzie formą zdaniową z argumentem x przyjmującym wartości należące dla niepustego uniwersum, a p zdaniem logicznym. Wskaż wszystkie tautologie."
+  },
+  {
+    "created_at": "2022-02-18 00:14:14.662239",
+    "id": "bbddc9c8-d096-42be-a398-8128c4c2209b",
+    "img": "bbddc9c8-d096-42be-a398-8128c4c2209b.png",
+    "notes": "",
+    "question": "Dana jest funkcja F zdefiniowana następująco: F(A) = 1 Które zdania są prawdziwe?"
+  },
+  {
+    "created_at": "2022-02-18 00:15:05.136186",
+    "id": "9c9f4484-5313-4ac5-a32a-e7381f42f4b6",
+    "img": "9c9f4484-5313-4ac5-a32a-e7381f42f4b6.png",
+    "notes": "",
+    "question": "Dla pewnej funkcji f i dowolnych A,BcX zachodzi AcB <=> f(A) c f(B). X i Y są niepustymi zbiorami. Jakie warunki musi spełniać funkcja f?"
+  },
+  {
+    "created_at": "2022-02-18 00:16:07.393078",
+    "id": "86cd4fb6-18c1-435e-b859-236925117480",
+    "img": "86cd4fb6-18c1-435e-b859-236925117480.png",
+    "notes": "",
+    "question": "Ile różnych relacji częściowego porządku można wprowadzić na zbiorze dwuelementowym X?"
+  },
+  {
+    "created_at": "2022-02-18 00:16:42.069344",
+    "id": "a3931a6e-992b-4ca0-a2d4-105d5759cc13",
+    "img": "a3931a6e-992b-4ca0-a2d4-105d5759cc13.png",
+    "notes": "",
+    "question": "Rozważmy wyrażenie postaci (...((p=>p)=>p)...)=>p, w którym zdanie p występuje n razy. Z poniższych zdań wskaż prawdziwe stwierdzenia."
+  },
+  {
+    "created_at": "2022-02-18 00:18:43.079619",
+    "id": "9cba1ad9-9c5e-4319-baa3-499e7759b857",
+    "img": "9cba1ad9-9c5e-4319-baa3-499e7759b857.png",
+    "notes": "",
+    "question": "W dowodzie tautologii brakuje wniosku oznaczonego jako (8). Z listy wybierz wszystkie możliwości uzupełnienia (8) które pozwalają uzyskać pełny i poprawny dowód. Przeprowadzamy dowód niewprost."
+  },
+  {
+    "created_at": "2022-02-18 00:20:38.987058",
+    "id": "6f474c14-c12f-4164-9c87-3b161f770229",
+    "img": "6f474c14-c12f-4164-9c87-3b161f770229.png",
+    "notes": "",
+    "question": "Rozważmy funkcję. Obraz zbioru A c X przez funkcję f oznaczamy jako f(A), a przeciwobraz zbioru B c Y oznaczamy jako. Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-18 00:21:52.226573",
+    "id": "85558557-e51c-4715-9e85-2026d4edb1af",
+    "img": "85558557-e51c-4715-9e85-2026d4edb1af.png",
+    "notes": "",
+    "question": "Niech f taką, że f(x) = mod(x^2,3), gdzie mod(a,b) oznacza resztę z dzielenia liczby a przez b. Zaznacz zdanie prawdziwe o f."
+  },
+  {
+    "created_at": "2022-02-18 00:22:58.068276",
+    "id": "214162e4-d1aa-470d-a61c-a05b100f0931",
+    "img": "214162e4-d1aa-470d-a61c-a05b100f0931.png",
+    "notes": "",
+    "question": "Która z funkcji f jest bijekcją?"
+  },
+  {
+    "created_at": "2022-02-18 00:23:24.966032",
+    "id": "89f6cd42-5eb6-42db-97d9-237e7b9bfa66",
+    "img": "89f6cd42-5eb6-42db-97d9-237e7b9bfa66.png",
+    "notes": "",
+    "question": "Rozważmy formę zdaniową określoną dla x i y będących liczbami całkowitymi. Z poniższej listy wybierz wszystkie zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-18 00:26:01.698185",
+    "id": "0a2a1fb8-858e-4d46-999d-07b83d0eafe7",
+    "img": "0a2a1fb8-858e-4d46-999d-07b83d0eafe7.png",
+    "notes": "",
+    "question": "Wybierz własności, które mogą być spełnione przez przynajmniej niektóre funkcje, gdzie X i Y są niepustymi i rozłącznymi zbiorami."
+  },
+  {
+    "created_at": "2022-02-18 00:26:53.267797",
+    "id": "08b74d48-4e06-40fe-810c-db3093475324",
+    "img": "08b74d48-4e06-40fe-810c-db3093475324.png",
+    "notes": "",
+    "question": "Dla teR definiujemy zbiory At. Z ilu elementów składa się zbiór?"
+  },
+  {
+    "created_at": "2022-02-18 00:29:56.238264",
+    "id": "c7cdfef9-353e-4884-b912-43389d029c0e",
+    "img": "c7cdfef9-353e-4884-b912-43389d029c0e.png",
+    "notes": "",
+    "question": "Dopasuj wyrażenia z lewej kolumny z wyrażeniami z kolumny prawej w taki sposób, aby utworzona została tautologia rachunku kwantyfikatorów."
+  },
+  {
+    "created_at": "2022-02-18 00:30:59.539305",
+    "id": "4e982848-6720-412f-b792-f32fbc562f56",
+    "img": "4e982848-6720-412f-b792-f32fbc562f56.png",
+    "notes": "",
+    "question": "Czy złożenie dwóch relacji równoważności jest relacją równoważności?"
+  },
+  {
+    "created_at": "2022-02-18 00:32:32.687886",
+    "id": "03f98746-9a2d-4e35-bf08-d8db2e2497b7",
+    "img": "03f98746-9a2d-4e35-bf08-d8db2e2497b7.png",
+    "notes": "",
+    "question": "Niech będą dowolnymi formami zdaniowymi zmiennej x w zbiorze X. Zaznacz zdania zawsze prawdziwe."
+  },
+  {
+    "created_at": "2022-02-18 00:33:20.671037",
+    "id": "77acd108-7977-47e0-9968-d8bfbe84b87f",
+    "img": "77acd108-7977-47e0-9968-d8bfbe84b87f.png",
+    "notes": "",
+    "question": "Poniższy dowód tautologii jest NIEPOPRAWNY. Z listy wybierz wszystkie niepoprawne wnioski. Przeprowadzamy dowód niewprost."
+  },
+  {
+    "created_at": "2022-02-18 00:34:15.033099",
+    "id": "d4161324-83a4-4521-a278-8b45390c5721",
+    "img": "d4161324-83a4-4521-a278-8b45390c5721.png",
+    "notes": "",
+    "question": "Niech liczba kardynalna a = c^3. Zaznacz zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-18 00:35:22.356945",
+    "id": "e499e675-c3a7-482c-9ae3-75b752a50293",
+    "img": "e499e675-c3a7-482c-9ae3-75b752a50293.png",
+    "notes": "",
+    "question": "Dane są funkcje f i g. Dla jakich funkcji złożenie g o f jest surjekcją?"
+  },
+  {
+    "created_at": "2022-02-18 00:36:06.179168",
+    "id": "d6f9d98c-fc06-4809-b43d-86317e0c6066",
+    "img": "d6f9d98c-fc06-4809-b43d-86317e0c6066.png",
+    "notes": "",
+    "question": "Niech będą dowolnymi formami zdaniowymi zmiennej x w zbiorze A =/= O. Zaznacz zdania zawsze prawdziwe."
+  },
+  {
+    "created_at": "2022-02-18 00:36:54.107158",
+    "id": "d71e71c3-c7fd-4b68-beb1-a5eb484ff5ab",
+    "img": "d71e71c3-c7fd-4b68-beb1-a5eb484ff5ab.png",
+    "notes": "Inna forma pytania: Niech liczba kardynalna a = N0 * c. Zaznacz zdania prawdziwe.",
+    "question": "Niech liczba kardynalna a = aleph0 * c. Zaznacz zdania prawdziwe."
+  },
+  {
+    "created_at": "2022-02-18 00:38:42.163687",
+    "id": "65421e7f-4beb-4494-9b7d-ccef15877ab9",
+    "img": "65421e7f-4beb-4494-9b7d-ccef15877ab9.png",
+    "notes": "",
+    "question": "Poniższa formuła jest tautologią."
+  },
+  {
+    "created_at": "2022-02-18 00:39:19.892158",
+    "id": "01c46571-ade3-4ef5-8c04-df05df0c1e09",
+    "img": "01c46571-ade3-4ef5-8c04-df05df0c1e09.png",
+    "notes": "",
+    "question": "Niech R będzie relacją określoną na niepustym zbiorze X (R c XxX). Relacja oznacza przekątną zbioru X. Dopasuj zachodzące równoważności."
+  },
+  {
+    "created_at": "2022-02-18 00:40:16.916730",
+    "id": "101c5bd6-c5c4-4c05-9d90-61cf0385213b",
+    "img": "101c5bd6-c5c4-4c05-9d90-61cf0385213b.png",
+    "notes": "",
+    "question": "Na dziedzinie X = [-3,3] definiujemy funkcje o wartościach. Która z poniższych relacji również jest funkcja na tej samej dziedzinie?"
+  },
+  {
+    "created_at": "2022-02-18 00:41:17.493589",
+    "id": "d8b3ff76-6ff3-44f8-af75-c61578a0d1ce",
+    "img": "d8b3ff76-6ff3-44f8-af75-c61578a0d1ce.png",
+    "notes": "",
+    "question": "Operator jednoczesnego zaprzeczenia (NOR) jest zdefiniowany jako poq. Wskaż wszystkie tautologie."
+  },
+  {
+    "created_at": "2022-02-18 00:42:11.185120",
+    "id": "f12a9941-cd34-4e97-a72b-f435540c7eea",
+    "img": "f12a9941-cd34-4e97-a72b-f435540c7eea.png",
+    "notes": "",
+    "question": "Wybierz własności, które spełnione są przez wszystkie surjekcje, gdzie X i Y są niepustymi i rozłącznymi zbiorami."
+  },
+  {
+    "created_at": "2022-02-18 00:43:24.457739",
+    "id": "c295b682-8d7f-4d31-a618-e67ef8ee1501",
+    "img": "c295b682-8d7f-4d31-a618-e67ef8ee1501.png",
+    "notes": "",
+    "question": "Na zbiorze X definiujemy relację częściowego porządku R. Dla których z poniższych zbiorów S, R u S pozostaje relacją częściowego porządku?"
+  },
+  {
+    "created_at": "2022-02-18 00:44:27.784838",
+    "id": "d987d431-78ff-4ec5-9f21-411694e50790",
+    "img": "d987d431-78ff-4ec5-9f21-411694e50790.png",
+    "notes": "",
+    "question": "Na zbiorach X definiujemy relację R, oraz S. Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-18 00:45:36.877523",
+    "id": "98976e01-3a0f-4663-8044-7502756569bc",
+    "img": "98976e01-3a0f-4663-8044-7502756569bc.png",
+    "notes": "",
+    "question": "Relacja R taka, że jest (zaznacz wszystkie prawdziwe odpowiedzi)"
+  },
+  {
+    "created_at": "2022-02-18 00:46:03.179081",
+    "id": "7d910f77-aed3-4bb7-ad97-8aab059135cc",
+    "img": "7d910f77-aed3-4bb7-ad97-8aab059135cc.png",
+    "notes": "",
+    "question": "Operator alternatywy wykluczającej (XOR) jest zdefiniowany jako. Wskaż wszystkie tautologie."
+  },
+  {
+    "created_at": "2022-02-18 00:46:49.049445",
+    "id": "27269a8a-e9ab-4950-b7ea-841d1173bfcd",
+    "img": "27269a8a-e9ab-4950-b7ea-841d1173bfcd.png",
+    "notes": "",
+    "question": "Dla dowolnych zbiorów prawdziwa jest równość:"
+  },
+  {
+    "created_at": "2022-02-18 00:47:29.045391",
+    "id": "8b1dc462-aeac-43f8-accd-34813c331406",
+    "img": "8b1dc462-aeac-43f8-accd-34813c331406.png",
+    "notes": "",
+    "question": "Niech f taką, że f(x) = mod(x^2,3), gdzie mod(a,b) to reszta z dzielenia a przez b. Podaj maksymalną wartość |X| (liczbę elementów zbioru X), dla której f jest iniekcją. (0 jeżeli nie istnieje, -1 jeżeli nieskończenie wiele)."
+  },
+  {
+    "created_at": "2022-02-18 00:48:51.515475",
+    "id": "110efd1a-ddc3-462d-81a6-859ea2ced0d4",
+    "img": "110efd1a-ddc3-462d-81a6-859ea2ced0d4.png",
+    "notes": "",
+    "question": "Niech zbiór X = {1,2,3} a zbiór Y = {a,b,c}. Ile jest wszystkich funkcji f które nie są surjekcjami:"
+  },
+  {
+    "created_at": "2022-02-18 00:49:59.010966",
+    "id": "652b0204-4cca-4281-9be1-58ea838d9e8d",
+    "img": "652b0204-4cca-4281-9be1-58ea838d9e8d.png",
+    "notes": "",
+    "question": "Na zbiorze X = {a,b,c} definiujemy relacje R = {aa,bb,cc} oraz S = {aa,bc}. Czy prawdą jest, że:"
+  },
+  {
+    "created_at": "2022-02-18 00:50:37.006882",
+    "id": "e36045a7-8a74-43aa-aa55-c125a33af907",
+    "img": "e36045a7-8a74-43aa-aa55-c125a33af907.png",
+    "notes": "",
+    "question": "Niech będzie formą zdaniową dwóch zmiennych x i y, których zakresem zmienności jest zbiór liczb naturalnych N, taką, że Zaznacz prawdziwą odpowiedź dla wyrażenia"
+  },
+  {
+    "created_at": "2022-02-18 00:53:53.926716",
+    "id": "94dd0d31-a657-400a-9777-ee865a6956d5",
+    "img": "94dd0d31-a657-400a-9777-ee865a6956d5.png",
+    "notes": "",
+    "question": "Niech |X| = 2 i |Y| = 3. Podaj liczbę funkcji. (0 jeżeli nie istnieje)"
+  },
+  {
+    "created_at": "2022-02-18 00:54:33.591253",
+    "id": "b8cf2d97-acc1-410c-ae56-d70d1d3a23b7",
+    "img": "b8cf2d97-acc1-410c-ae56-d70d1d3a23b7.png",
+    "notes": "",
+    "question": "Sparuj prawo logiki z jego nazwą."
+  },
+  {
+    "created_at": "2022-02-18 00:55:27.167480",
+    "id": "7da39fe8-61d2-4100-ade7-ed8c8ccd74fd",
+    "img": "7da39fe8-61d2-4100-ade7-ed8c8ccd74fd.png",
+    "notes": "",
+    "question": "Sparuj prawo logiki z jego nazwą."
+  },
+  {
+    "created_at": "2022-02-18 00:55:48.358559",
+    "id": "c06a5b98-1314-41fe-8902-23df56956bc4",
+    "img": "c06a5b98-1314-41fe-8902-23df56956bc4.png",
+    "notes": "",
+    "question": "Niech będzie formą zdaniową zmiennej x, której zakresem zmienności jest niepusty zbiór X. Zaznacz odpowiedź prawdziwą dla wyrażenia"
+  },
+  {
+    "created_at": "2022-02-18 00:56:50.847428",
+    "id": "61824979-ef3c-48c5-b5fa-f3786dd4bd9e",
+    "img": "61824979-ef3c-48c5-b5fa-f3786dd4bd9e.png",
+    "notes": "",
+    "question": "Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja."
+  },
+  {
+    "created_at": "2022-02-18 00:58:40.520287",
+    "id": "a42107e0-55c4-4764-824e-84f039d966a3",
+    "img": "a42107e0-55c4-4764-824e-84f039d966a3.png",
+    "notes": "",
+    "question": "Jeżeli (An) oraz (Bn) są zstępującymi rodzinami zbiorów to zachodzi równość Uwaga: rozdzinę zbiorów (An) nazywamy zstępującą, gdy An c An+1 dla wszystkich n."
+  },
+  {
+    "created_at": "2022-02-18 01:00:28.233060",
+    "id": "d9ba399e-c67b-4e10-bfac-ea8038a0cb1d",
+    "img": "d9ba399e-c67b-4e10-bfac-ea8038a0cb1d.png",
+    "notes": "",
+    "question": "Rozważmy funkcję f. Obraz zbioru A przez funkcję f oznaczamy jako f(A), a przeciwobraz jako. Wskaż wszystkie prawdziwe stwierdzenia:"
+  },
+  {
+    "created_at": "2022-02-18 01:02:56.799000",
+    "id": "73532086-0b79-4d8b-8dff-d9217c8ef98b",
+    "img": "73532086-0b79-4d8b-8dff-d9217c8ef98b.png",
+    "notes": "",
+    "question": "Niech R będzie relacją równoważności na zbiorze X, |X| > 2. Wtedy zachodzi:"
+  },
+  {
+    "created_at": "2022-02-18 01:04:50.727931",
+    "id": "febf8f4d-a723-4bba-8fbe-ce18b56fad1f",
+    "img": "febf8f4d-a723-4bba-8fbe-ce18b56fad1f.png",
+    "notes": "",
+    "question": "Niech A i B będą liczbami rzeczywistymi traktowanymi jako klasy dolne przekrojów Dedekinda zbioru Q. Wówczas A u B"
+  },
+  {
+    "created_at": "2022-02-18 01:05:37.029734",
+    "id": "dd464ab2-2d4e-4c2b-96d8-bb4c46ec4f2a",
+    "img": "dd464ab2-2d4e-4c2b-96d8-bb4c46ec4f2a.png",
+    "notes": "",
+    "question": "Dane są funkcje f,g,h takie, że oraz zbiory A = (-1,1], B = (0,1], C = (-inf,0]. Prawdą jest, że:"
+  },
+  {
+    "created_at": "2022-02-18 01:07:00.399782",
+    "id": "76fd39b8-fcb8-44c7-a05f-ad1a59efc31a",
+    "img": "76fd39b8-fcb8-44c7-a05f-ad1a59efc31a.png",
+    "notes": "",
+    "question": "Zaznacz pary zbiorów, pomiędzy którymi istnieje bijekcja."
+  },
+  {
+    "created_at": "2022-02-18 01:07:22.762321",
+    "id": "874b7dc4-d8f6-4043-9729-528cf28b1704",
+    "img": "874b7dc4-d8f6-4043-9729-528cf28b1704.png",
+    "notes": "",
+    "question": "Dane są rodziny zbiorów {At}, {Bt}. Co możemy wstawić w puste pole"
+  },
+  {
+    "created_at": "2022-02-18 01:36:08.263600",
+    "id": "22df1963-83f4-4fbb-a09c-aae092d7bfee",
+    "img": "22df1963-83f4-4fbb-a09c-aae092d7bfee.png",
+    "notes": "",
+    "question": "Rozważamy odwzorowanie f zadane poprzez. Z poniższych zdań wskaż prawdziwe stwierdzenia."
+  },
+  {
+    "created_at": "2022-02-18 01:43:41.712589",
+    "id": "669a9fff-b020-42a6-9812-374427fc0a15",
+    "img": "669a9fff-b020-42a6-9812-374427fc0a15.png",
+    "notes": "",
+    "question": "Na zbiorze R definiujemy relację równoważności. Na jakie sposoby można zapisać dowolną jej klasę abstrakcji?"
+  },
+  {
+    "created_at": "2022-02-18 01:53:17.184606",
+    "id": "ad1b18ec-1cf2-44be-8eb7-c9d7641f6c24",
+    "img": "ad1b18ec-1cf2-44be-8eb7-c9d7641f6c24.png",
+    "notes": "",
+    "question": "Niech A i B będą liczbami rzeczywistymi traktowanymi jako klasy dolne przekrojów Dedekinda zbioru Q. Wówczas A \\ B"
+  },
+  {
+    "created_at": "2022-02-18 01:55:14.760741",
+    "id": "7c257146-4d21-461c-a9e7-d2907097e0ce",
+    "img": "7c257146-4d21-461c-a9e7-d2907097e0ce.png",
+    "notes": "",
+    "question": "Zaznacz relacje R, które są relacjami częściowego porządku."
+  },
+  {
+    "created_at": "2022-02-18 01:57:46.469045",
+    "id": "cf6f66ef-6bd4-4b62-b07b-795680bf7c28",
+    "img": "cf6f66ef-6bd4-4b62-b07b-795680bf7c28.png",
+    "notes": "",
+    "question": "Które z propozycji są poprawnymi kontrprzykładami na to, że wynika z?"
+  },
+  {
+    "created_at": "2022-02-18 01:58:43.267516",
+    "id": "dba5cb09-0532-45f4-8c61-92cd85dddb31",
+    "img": "dba5cb09-0532-45f4-8c61-92cd85dddb31.png",
+    "notes": "",
+    "question": "Rozważmy równość. Czy prawdą jest, że:"
   }
 ]
