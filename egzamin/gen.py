@@ -21,7 +21,7 @@ def generate_element():
 
 
 json_obj = None
-with open(FILE_PATH, "r") as f:
+with open(FILE_PATH, "r", encoding="utf-8") as f:
     json_obj = json.load(f)
     next_element = generate_element()
     json_obj.append(next_element)
