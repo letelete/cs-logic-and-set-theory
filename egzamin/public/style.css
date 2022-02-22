@@ -55,6 +55,11 @@ body {
   color: rgba(0, 0, 0, 0.6);
 }
 
+.question.question--selected .question__header > :last-child {
+  font-weight: bold;
+  color: black;
+}
+
 .question .question__container {
   width: 100%;
   display: flex;

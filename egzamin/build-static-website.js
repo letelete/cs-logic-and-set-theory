@@ -38,6 +38,13 @@ const createDatabase = (filepath, parser) => {
 };
 
 const createHtmlGenerator = (entries) => {
+  const classList = {
+    question: {
+      root: 'question',
+      selected: 'question--selected',
+    },
+  };
+
   const generateHead = () => {
     const recentChangeDate = new Date().toLocaleString('pl-PL', {
       timeZone: 'Poland',
@@ -60,7 +67,9 @@ const createHtmlGenerator = (entries) => {
   };
 
   const mapEntryToHtmlNode = (entry, index) => {
-    return `<li data-id="${entry.id}" class="exam-questions__question question">
+    return `<li id="${entry.id}" class="exam-questions__question ${
+      classList.question.root
+    }">
         <div class="question__header">
             <span class="question__counter">#${index + 1}</span>
             <span class="question__id">${entry.id}</span>
@@ -100,11 +109,29 @@ const createHtmlGenerator = (entries) => {
     </body>`;
   };
 
+  const generateScripts = () => {
+    return `
+    <script>
+    const attachSelectedToggle = () => {
+      const id = window.location?.hash?.replace('#', '');
+      if (!id) return;
+      const element = document.querySelector('[id="' + id + '"]');
+      if (!element?.classList?.contains('${classList.question.root}')) return;
+      element.classList.toggle('${classList.question.selected}');
+    }
+    window.addEventListener('load', () => {
+      attachSelectedToggle();
+    });
+    </script>
+    `;
+  };
+
   const generate = () => {
     return `<!DOCTYPE html>
     <html lang="pl">
         ${generateHead()}
         ${generateBody()}
+        ${generateScripts()}
     </html>
     `;
   };
