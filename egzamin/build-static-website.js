@@ -47,6 +47,8 @@ const createHtmlGenerator = (entries) => {
       <meta http-equiv='X-UA-Compatible' content='IE=edge' />
       <meta name='viewport' content='width=device-width, initial-scale=1.0' />
       <title>Baza pytan - LiTM - ost. aktu. ${recentChangeDate}</title>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-MZ91LWJWN5"></script>
+      <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-MZ91LWJWN5");</script>
       <link rel='preconnect' href='https://fonts.googleapis.com' />
       <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
       <link
